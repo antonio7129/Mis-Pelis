@@ -1524,3 +1524,11 @@ https://hls4.guayhd.me/videos/66b3462c4af275ed9057a86dd70a8658/720/720p.m3u8
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2024/03/blq050GHBt0Fzx1j9FvohaEuknJ-170x255.jpg" group-title="Acción", Madame Web
 https://hls3.guayhd.me/videos/4c3045ab0fd040951ab29ed8f1f70878/720/720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/especies.jpg" group-title="Acción", Especie Mortal
+https://cache018.peliscdn.online/newhls/1068514aef5b8cfd8281091e39bb1928/EP.0.1.v0.1709274563.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/especies-ii.jpg" group-title="Acción", Especie Mortal 2
+https://cache019.peliscdn.online/newhls/6f2531ec31193c68821ff8462900642f/EP.0.1.v0.1709241919.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/especies.jpg" group-title="Acción", Especie Mortal 3
+https://cache020.peliscdn.online/newhls/72b271e8dff33ffc782cb2ae543df383/EP.0.1.v0.1709398616.720.m3u8
