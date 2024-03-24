@@ -45,6 +45,9 @@ https://hls3.guayhd.me/videos/51d9290076d8fce85a5a78a414f002d7/master.m3u8
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/09/apxaWDCqjPrVc1v5HiKW2r10yiL-170x255.jpg" group-title="Acción",Sonido de la Libertad(PelisForte.nu)
 https://hls3.guayhd.me/videos/7da21ec43a076bcee0713209a324a2bc/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://pelisforte.se/wp-content/uploads/2019/05/deadpool-278-poster-170x255.jpg" group-title="Acción",Deadpool (PelisForte.nu)
+https://hls.guayhd.me/videos/2006dec385c46a0eaf77b1f9a2bf31f0/720/720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2019/05/deadpool-2-284-poster-170x252.jpg" group-title="Acción",Deadpool 2 UNRATED(PelisForte.nu)
 https://hls.guayhd.me/videos/c4e3bf69f4d297f9678aac5298993a2d/720/720p.m3u8
 
@@ -738,8 +741,7 @@ https://server34.peliscdn.online/newhls/f972cad4820540d5188d90f63fbc1389/EP.0.1.
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-especialista-resurreccion.jpg" group-title="Acción", El Especialista: Resurrección (cuevana3.ch)
 https://server47.peliscdn.online/newhls/b60cb2ce5fc39980abe88fc041c0744a/EP.0.1.v1.1678157658.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/duro-de-cuidar.jpg" group-title="Acción", Duro de Cuidar (cuevana3.ch)
-https://server22.peliscdn.online/newhls/338e421e8bd8c788f2a3726261b7dcff/EP.0.2.v0.1681794455.720.m3u8
+https://cache014.peliscdn.online/newhls/fa4c2b27b9ff8263f3db96c4fc154366/EP.0.1.v2.1708893652.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/bright.jpg" group-title="Acción", Brights (cuevana3.ch)
 https://server12.peliscdn.online/newhls/0f3427d6a62b0f2d6fcc93f001b2dcda/EP.0.2.v0.1676356209.720.m3u8
@@ -1521,8 +1523,8 @@ https://hls4.guayhd.me/videos/5e1431cd00f4be23859d8595aa780f30/720/720p.m3u8
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/09/61vG9UNWfH5en1WoLxGtROXU9o71-170x243.jpg" group-title="Acción", Los indestructibles 4
 https://hls4.guayhd.me/videos/66b3462c4af275ed9057a86dd70a8658/720/720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2024/03/blq050GHBt0Fzx1j9FvohaEuknJ-170x255.jpg" group-title="Acción", Madame Web
-https://hls3.guayhd.me/videos/4c3045ab0fd040951ab29ed8f1f70878/720/720p.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/splice-experimento-mortal.jpg" group-title="Acción", Splice: Experimento Mortal
+https://cache012.peliscdn.online/newhls/ffcc7aab49cf13f67215c0f907425494/EP.0.1.v0.1708801227.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/especies.jpg" group-title="Acción", Especie Mortal
 https://cache018.peliscdn.online/newhls/1068514aef5b8cfd8281091e39bb1928/EP.0.1.v0.1709274563.720.m3u8
@@ -1533,5 +1535,17 @@ https://cache019.peliscdn.online/newhls/6f2531ec31193c68821ff8462900642f/EP.0.1.
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/especies.jpg" group-title="Acción", Especie Mortal 3
 https://cache020.peliscdn.online/newhls/72b271e8dff33ffc782cb2ae543df383/EP.0.1.v0.1709398616.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/splice-experimento-mortal.jpg" group-title="Acción", Splice: Experimento Mortal
-https://cache012.peliscdn.online/newhls/ffcc7aab49cf13f67215c0f907425494/EP.0.1.v0.1708801227.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/duro-de-cuidar.jpg" group-title="Acción", Duro de Cuidar (cuevana3.ch)
+https://server22.peliscdn.online/newhls/338e421e8bd8c788f2a3726261b7dcff/EP.0.2.v0.1681794455.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/duro-de-cuidar.jpg" group-title="Acción", Duro de Cuidar 2 (pelisforte)
+https://hls4.guayhd.me/videos/67058fb7863ab28ba0e11212545dda8b/720/720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2024/03/blq050GHBt0Fzx1j9FvohaEuknJ-170x255.jpg" group-title="Acción", Madame Web
+https://hls3.guayhd.me/videos/4c3045ab0fd040951ab29ed8f1f70878/720/720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/vUUAAOSwweNiuCEe/s-l500.jpg" group-title="Acción", Hostile Territory
+https://sv2.nupload.site/66/66/66647f81347.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisforte.se/wp-content/uploads/2024/02/jPGbcbMlzGUECukPhkEMVt1Kvs5-170x255.jpg" group-title="Acción", Cazadores en tierra inhóspita
+https://hls4.guayhd.me/videos/4fbaffce44133c7de7d93d39416fcfe3/720/720p.m3u8
