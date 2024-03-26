@@ -1544,8 +1544,17 @@ https://hls4.guayhd.me/videos/67058fb7863ab28ba0e11212545dda8b/720/720p.m3u8
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2024/03/blq050GHBt0Fzx1j9FvohaEuknJ-170x255.jpg" group-title="Acción", Madame Web
 https://hls3.guayhd.me/videos/4c3045ab0fd040951ab29ed8f1f70878/720/720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/vUUAAOSwweNiuCEe/s-l500.jpg" group-title="Acción", Hostile Territory
-https://sv2.nupload.site/66/66/66647f81347.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.se/wp-content/uploads/2024/02/jPGbcbMlzGUECukPhkEMVt1Kvs5-170x255.jpg" group-title="Acción", Cazadores en tierra inhóspita
 https://hls4.guayhd.me/videos/4fbaffce44133c7de7d93d39416fcfe3/720/720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/vUUAAOSwweNiuCEe/s-l500.jpg" group-title="Acción", Hostile Territory
+https://cache019.peliscdn.online/newhls/a61c9389daf0444728441ba8ad226ff0/EP.0.2.v1.1708770980.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cargo.jpg" group-title="Acción", Cargo
+https://cache004.peliscdn.online/newhls/779f7162127fbfa14db315d8fee72800/EP.0.1.v0.1709101177.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/tomb-raider.jpg" group-title="Acción", Tomb Raider
+https://cache002.peliscdn.online/newhls/3f87dbaef88c41824843d5c44ef4fffd/EP.0.1.v0.1709086534.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-momia.jpg" group-title="Acción",La Momia
+https://cache013.peliscdn.online/newhls/e7da0f56b3e052ab8e46d7718913d0a9/EP.0.1.v0.1709213303.720.m3u8
