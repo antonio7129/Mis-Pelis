@@ -2,93 +2,60 @@
 
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2021/07/la-guerra-del-manana-12844-poster-170x250.jpg" group-title="Acción",La Guerra del Mañana (pelisforte.nu)
 https://hls.guayhd.me/videos/75c3ff216094b8ca28a1d523ce3eb423/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2022/07/7uEh9kpQWJgaebgPXVCPf88wsFe-170x255.jpg" group-title="Ciencia Ficcion",La princesa(pelisforte.nu)
 https://hls.guayhd.me/videos/212ad9a94d27c00e60bbf06f7fd49f18/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2022/11/jPYPRS7LVmLDXGJ7VfBjXaV9eZr-170x255.jpg" group-title="Belico",Sin novedad en el frente (2023)(pelisforte.nu)
 https://hls.guayhd.me/videos/9322f9cf61a334cf8bfcab871b2cc0ab/1080/1080p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2019/09/el-justiciero-3077-poster-170x255.jpg" group-title="Acción Aventura",The Equalizer 1(pelisforte.nu)
 https://hls3.guayhd.me/videos/7f5c399eaca23cfb8f8b843028b95b10/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2019/09/el-justiciero-2-3085-poster-170x255.jpg" group-title="Acción Aventura",The Equalizer 2(pelisforte.nu)
 https://hls3.guayhd.me/videos/a54bc747eb9b6dea822a899925b3a78b/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/pOeuGFopH4VE1YxURNZsQqy7xCr.jpg" group-title="Acción Aventura",The Equalizer 3 (2023)(pelisforte.nu)
 https://hls3.guayhd.me/videos/a25a71b1671159b85ead62b8da4633b1/720/720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/pOeuGFopH4VE1YxURNZsQqy7xCr.jpg" group-title="Acción Aventura",The Equalizer 3 (2023)(Cuevana3)
-https://s25.fastream.to/hls2/05/00059/b9oza3mai0xb_,l,n,h,x,.urlset/master.m3u8?t=ubBd8AItO8eEJSAGOGy8LG-82FLogYxKEMaiFMgnWZE&s=1704313873&e=43200&f=298549&i=0.0&sp=0
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/09/uAGSbJQZd47zexBvzZ9XrBvU2xd-170x255.jpg" group-title="Comedia",Hijos de Perra (www.pelisplus.org)
 https://hls3.guayhd.me/videos/a714cc3c34f20e886d5b3091e2c0309e/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/07/9QvmNoet3sZhuR225rDjTh1Hhb4-170x255.jpg" group-title="Acción",Indiana Jones 1: Los cazadores del arca perdida
 https://hls3.guayhd.me/videos/4b5726421f90ab17c482b3592f67bf23/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://oscar220374.com/wp-content/uploads/2023/06/6UrznkPL4Y2f66zkoFAiSwfAYtE-200x300.jpg" group-title="Acción",Indiana Jones 2: El templo de la perdición (oscar220374)
 https://hls3.guayhd.me/videos/929b7c01d9d869681e2f802832d5c683/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://oscar220374.com/wp-content/uploads/2023/06/osKZUgKRUK1jwYMdsmlevK7zZIY-200x300.jpg" group-title="Acción",Indiana Jones 3: La última cruzada (pelisforte.nu)
 https://hls3.guayhd.me/videos/d96cfb9529caca75445880a1c59e85b0/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://oscar220374.com/wp-content/uploads/2023/06/fGG1Ljd0ULYHOegN8Qm3r1ndXhE-200x300.jpg" group-title="Acción", Indiana Jones 4: El reino de la calavera de cristal (pelisforte.nu)
 https://hls3.guayhd.me/videos/be1543034d8b196acd8be16923c8e6a6/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2022/10/3eQMzMd2qsZkAJbk4wekp3Crg54-170x255.jpg" group-title="Acción ",Black Adam(pelisforte.nu)
 https://hls.guayhd.me/videos/877a6941ccbbdbbbfa41aca8a51761ca/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dqu7nUtKTLdpM7DaJvD4zcSXhn1.jpg" group-title="Acción",Bastardos sin gloria (exapelis.me)
 https://hls3.guayhd.me/videos/51d9290076d8fce85a5a78a414f002d7/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/09/apxaWDCqjPrVc1v5HiKW2r10yiL-170x255.jpg" group-title="Acción",Sonido de la Libertad(PelisForte.nu)
-https://hls3.guayhd.me/videos/7da21ec43a076bcee0713209a324a2bc/master.m3u8
-
+https://hls3.guayhd.me/videos/3bb025ab2161b8f10926213f1760fd29/720/720p.m3u8
 #EXTINF:-1 tvg-logo="https://pelisforte.se/wp-content/uploads/2019/05/deadpool-278-poster-170x255.jpg" group-title="Acción",Deadpool (PelisForte.nu)
 https://hls.guayhd.me/videos/2006dec385c46a0eaf77b1f9a2bf31f0/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2019/05/deadpool-2-284-poster-170x252.jpg" group-title="Acción",Deadpool 2 UNRATED(PelisForte.nu)
 https://hls.guayhd.me/videos/c4e3bf69f4d297f9678aac5298993a2d/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2021/03/barrenderos-espaciales-11574-poster-170x255.jpg" group-title="Ciencia ficción",Barrenderos espacialesPelisForte.nu)
 https://hls3.guayhd.me/videos/348a9871f144b6f72c4187f448204d7c/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/09/o0ndJZaa9ZFFfpnl1IejajXv0II-170x255.jpg" group-title="Terror",Toc toc toc: El Sonido del Mal(pelisforte.nu)
 https://hls3.guayhd.me/videos/90e653131398c952e103a86e8ff348fd/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/04/zSw2JeQ03GivcS4VKJmWK5sYi1F-170x255.jpg" group-title="Acción",Ghosteado(pelisforte.nu)
 https://hls.guayhd.me/videos/4e57d31164df0ce69723973579031f04/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/03/mMAqfB1JG3nGTaqtNQT4JkkzD6u-170x252.jpg" group-title="Acción",La guarida(pelisforte.nu)
 https://hls.guayhd.me/videos/272818dd7dac44018f7292b8018fd3aa/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/02/bYnlT2TbgSMytw0mVTQWAZ4mXNq-170x255.jpg" group-title="Acción",Maremoto(pelisforte.nu)
 https://hls.guayhd.me/videos/311b8782c56b837b004e44e4b753c6c4/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/01/t46am6WH3ay75sie9azYHFUmoDq-170x255.jpg" group-title="Acción",Taxi(pelisforte.nu)
 https://hls.guayhd.me/videos/83819361ee1696827dfb968a49e7a3a0/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2022/11/wTIEIEYCSIDj1huiZadK1mvJPPt-170x255.jpg" group-title="Acción",Emergencia en el aire(pelisforte.nu)
 https://hls.guayhd.me/videos/5ee0af3e633504d9dbd7081a773721d1/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2022/08/2r5ZISrHQUQLBMdAJF3CDDAxp54-170x241.jpg" group-title="Acción",Vista por última vez(pelisforte.nu)
 https://hls.guayhd.me/videos/fd46323e20b476ad688e4a3665bbdf2c/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/resident-evil-welcome-to-raccoon-city-2-1638056433.jpg" group-title="Acción",Resident Evil: Bienvenidos a Raccoon City(pelisplushd.so)
-https://server29.mxcdnab.online/newhls/4407b12fe4c2c0373ac5126640412a5a/EP.0.1.v3.1676243976.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2022/09/lKSOh8Sm0iFLeT5zmf2HyhBwfiF-170x255.jpg" group-title="Acción",El superagente 86(pelisforte.nu)
 https://hls.guayhd.me/videos/25624d07b179e6b9f2292bdd976044e6/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2022/02/zlyhKMi2aLk25nOHnNm43MpZMtQ-170x255.jpg" group-title="Acción",Jack Reacher 1: Bajo la mira(pelisplushd.so)
-https://server47.mxcdnab.online/newhls/2ca606add378b536319ea03479d30003/EP.0.1.v0.1677891035.720.m3u8
-
-#EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2022/02/zlyhKMi2aLk25nOHnNm43MpZMtQ-170x255.jpg" group-title="Acción",Jack Reacher 1: Bajo la mira(pelisforte.nu)
-https://server13.peliscdn.online/newhls/13be11e34d924b708ca1a3cbc61850d8/EP.0.1.v0.1677418041.m3u8
+https://cache006.peliscdn.online/newhls/13be11e34d924b708ca1a3cbc61850d8/EP.0.1.v0.1708877783.360.m3u8
 
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2022/02/eLzStFuergouErSQlfABthuQHCJ-170x255.jpg" group-title="Acción",Jack Reacher 2: Sin regreso(pelisplushd.so)
-https://server47.mxcdnab.online/newhls/2ca606add378b536319ea03479d30003/EP.0.1.v0.1677891035.720.m3u8
+https://cache010.peliscdn.online/newhls/2ca606add378b536319ea03479d30003/EP.0.1.v0.1708851206.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2021/01/golpe-en-londres-10965-poster-170x251.jpg" group-title="Acción",Golpe en Londres(pelisforte.nu)
 https://hls3.guayhd.me/videos/4caeb74fa3f060e1bc23fa821a953571/720/720p.m3u8
@@ -868,693 +835,480 @@ https://server36.peliscdn.online/newhls/a8c5753f4a05d5431df17883433e341a/EP.0.1.
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/encuentro-explosivo.jpg" group-title="Acción",Encuentro Explosivo
 https://server46.peliscdn.online/newhls/289144cb4569e8463304baca4193d1c3/EP.0.1.v0.1677083929.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/alex-cross-en-la-mente-de-un-asesino-1573841106.jpg" group-title="Acción",Alex Cross: En La Mente de Un Asesino
 https://server30.peliscdn.online/newhls/3125ffbacfcce114f634b39c54706239/EP.0.1.v0.1677102138.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/secretos-peligrosos-1574530207.jpg" group-title="Acción",Secretos Peligrosos
 https://server36.peliscdn.online/newhls/e8537ba9f4202a3471a3d0bc58d5261c/EP.0.0.v0.1677322122.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/revolver-1574202904.jpg" group-title="Acción",Revolver
 https://server11.peliscdn.online/newhls/b8986c445c48c137f2c32e99c0ac1066/EP.0.0.v0.1679391657.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/codigo-de-defensa-1574118305.jpg" group-title="Acción",Código de Defensa
 https://server27.peliscdn.online/newhls/7255a2c56c1ccf89ac8ddea424a57fd5/EP.0.1.v0.1677904712.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-perdedores-1574723706.jpg" group-title="Acción",Los Perdedores
 https://server47.peliscdn.online/newhls/fe58fb5e6503d6d8356a4250576ff911/EP.0.1.v0.1677262099.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/daybreakers-1574720106.jpg" group-title="Acción",Vampiros del Dia
 https://server42.peliscdn.online/newhls/57e3149575c9a0219d2808e1bd94e9b4/EP.0.1.v0.1677080127.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/black-47-2-1575555964.jpg" group-title="Acción",Black ’47
 https://server22.peliscdn.online/newhls/d4ce9e6b71172d37e2e4660f20561187/EP.0.1.v0.1677133459.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cold-pursuit-2-1575216963.jpg" group-title="Acción",Venganza
 https://server28.peliscdn.online/newhls/a03fd1a45f5e6a13dedf42f4ce01314e/EP.0.0.v0.1677450164.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/geukhanjikeob-2-1575192962.jpg" group-title="Acción",Extreme Job
 https://server15.peliscdn.online/newhls/8f50c4aca728907bb2f3920cc9c43052/EP.0.0.v0.1677340400.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/gam-si-ja-deul-2-1579016163.jpg" group-title="Acción",Vigilancia extrema
 https://server36.peliscdn.online/newhls/c6231244caaf9fb126ba1a4be7d393f1/EP.0.0.v2.1677280836.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-soldado-de-dios-1578506407.jpg" group-title="Acción",El Soldado de Dios
 https://server40.peliscdn.online/newhls/2fcdabeb28fcac3bfe374e4431d18757/EP.0.1.v0.1676920934.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-otros-dos-1578412806.jpg" group-title="Acción",Policas de Repuesto
 https://server25.peliscdn.online/newhls/6e074a399852a2f6a7d30b149ab4bc5d/EP.0.1.v0.1677056839.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/planet-terror-1580277919.jpg" group-title="Acción",Planet Terror
 https://server43.peliscdn.online/newhls/530cda5136916995d07314098bdb1e84/EP.0.1.v0.1677005629.1080.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-rios-de-color-purpura-1582411504.jpg" group-title="Acción",Los Ríos de Color Púrpura
 https://server23.peliscdn.online/newhls/b45822125c8cade317f9a60cdd51cea0/EP.0.1.v0.1677335927.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/rios-de-color-purpura-2-los-angeles-del-1582411504.jpg" group-title="Acción",Ríos de Color Purpura 2: Los Ángeles del Apocalipsis
 https://server24.peliscdn.online/newhls/9ed3b5d4fb5317415e8d861d8853a22d/EP.0.1.v0.1677047898.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/fallen-1582401906.jpg" group-title="Acción",Fallen
 https://server17.peliscdn.online/newhls/e25cff1c58e827b87bbffe7b6c9e3db4/EP.0.1.v0.1677160206.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/redencion-1585952703.jpg" group-title="Acción",El Redentor
 https://server23.peliscdn.online/newhls/d58c15e44487305f5823135bc0d6f1f9/EP.0.1.v0.1677310159.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/sabotage-1585949703.jpg" group-title="Acción",El Sabotaje
 https://server05.peliscdn.online/newhls/98edd38ab6b2cbb39cd5716dfdc1850c/EP.0.1.v0.1677242788.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-bombardero-memphis-belle-1585869005.jpg" group-title="Acción",El Bombardero Memphis Belle
 https://server29.peliscdn.online/newhls/2133ec15ff1758cdab5027b36648e14a/EP.0.1.v0.1676752300.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/gangster-squad-brigada-de-elite-1585695005.jpg" group-title="Acción",Fuerza Antigángster
 https://server02.peliscdn.online/newhls/403fd01fe99d19aa7fddd274ccdd6c4c/EP.0.1.v0.1676887750.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-asesino-1592670306.jpg" group-title="Acción",Asesino Solitario
 https://server44.peliscdn.online/newhls/9b984fff046631f774a5e425da75ee24/EP.0.1.v1.1676929611.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-coyote-1590825408.jpg" group-title="Acción",El Coyote
 https://server44.peliscdn.online/newhls/c94320bd91f2af00cbe6110d0683e702/EP.0.1.v0.1676946939.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-old-guard-2-1594740722.jpg" group-title="Acción",La vieja guardia
 https://server43.peliscdn.online/newhls/a5e8555760c690b4989a0048424f97f8/EP.0.1.v0.1676882558.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-gringo-1594330809.jpg" group-title="Acción",El Gringo
 https://server23.peliscdn.online/newhls/3d337728f93b9b52da2962d1b869595d/EP.0.1.v0.1677254144.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/death-proof-1597947917.jpg" group-title="Acción",A prueba de Muerte
 https://server13.peliscdn.online/newhls/de2617b9bb5839087033df70fc6c1174/EP.0.1.v0.1677185362.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/wasabi-el-trato-sucio-de-la-mafia-1597267516.jpg" group-title="Acción",Wasabi: El Trato Sucio de La Mafia
 https://server27.peliscdn.online/newhls/7333781bb8b83a81ce6599fe410268a8/EP.0.1.v0.1677699111.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/killing-gunther-2-1596369724.jpg" group-title="Acción",Asesinos Internacionales
 https://server08.peliscdn.online/newhls/0bb909d1258cff32ed0624bdf015c904/EP.0.2.v0.1679372778.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cazadores-de-mentes-1596302724.jpg" group-title="Acción",Cazadores de Mentes
 https://server01.peliscdn.online/newhls/43d1f7f66813a37dd2e97bf259e81367/EP.0.1.v0.1676846111.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-prueba-1601142011.jpg" group-title="Acción",The Recruit (El Discípulo)
 https://server21.peliscdn.online/newhls/d2c322e8876ace3648a81a91c0b8fe7e/EP.0.2.v0.1676394560.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-pacificador-1601140210.jpg" group-title="Acción",El Pacificador
 https://server15.peliscdn.online/newhls/46ea058114153f68cf6079b78180248b/EP.0.1.v1.1679664466.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-cosecha-de-hielo-1600972809.jpg" group-title="Acción",La Cosecha de Hielo
 https://server33.peliscdn.online/newhls/c15e649f5c9e3f65924a9984c0944136/EP.0.2.v0.1676426191.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/iron-sky-1605820811.jpg" group-title="Acción",Iron Sky
 https://server36.peliscdn.online/newhls/086306f6f9c9028d550ef4713c783209/EP.0.1.v0.1676641833.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/monster-hunter-2-1613575562.jpg" group-title="Acción",Monster Hunter
 https://server19.peliscdn.online/newhls/88584e4569e467bce710dca8dad27e4d/EP.0.2.v0.1676185922.1080.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/jolt-2-1627085164.jpg" group-title="Acción",Jolt
 https://server11.peliscdn.online/newhls/731bdcdcd1a5815d5c51555b8c8550f2/EP.0.2.v1.1676172056.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://oscar220374.com/wp-content/uploads/2023/12/aZXHjmhSSGUshLEdgsNCTH9z7Ix-200x300.jpg" group-title="Acción",Los asesinos de la luna
 https://player.osjonosu.xyz/videos/bcee301d8d0eb4e12edc7408e0d828b6/1080/1080p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/12/1tSN0rsFxnCNEqymr9qGcHNekIQ-170x255.jpg" group-title="Terros",Noche de Horror
 https://hls3.guayhd.me/videos/14bd1972d235c9f17a92ba0298c66666/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-regalo-prometido.jpg" group-title="Comedia",El Regalo Prometido
 https://server11.peliscdn.online/newhls/14af9d686e51255dd9b734cf5684ef33/EP.0.1.v0.1679651900.1080.m3u8
-
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/96/01/56/20439676.jpg" group-title="Comedia", CON EL ARMA A PUNTO
 https://hfs266.serversicuro.cc/hls/dnzpej4k2pg4a3gyvcqx5pbattiiqftuczdir3wd2nbyktx4okjesis5bz7q/index-v1-a1.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hablame-1691750975.png" group-title="Terror", Háblame
 https://server16.peliscdn.online/newhls/2f2601249c1d9e727ab7a2c0905e0eb9/EP.0.2.v3.1696768787.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-jack-in-the-box-2-1584806164.jpg" group-title="Terror", The Jack in the Box 1
 https://server21.peliscdn.online/newhls/a5c6eeecdeadbb3e5df93ae9da8e6fd1/EP.0.2.v2.1676441500.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-jack-in-the-box-awakening-2-1642488002.jpg" group-title="Terror", The Jack in the Box 2: Awakening
 https://server35.peliscdn.online/newhls/47356f0fd0ba2c899fd5977828179d35/EP.0.2.v2.1678443456.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/evil-dead-rise-2-1682111766.jpg" group-title="Terror", Posesión infernal: El despertar
 https://server23.peliscdn.online/newhls/9ac7843153938195d4b35797c780d63d/EP.0.2.v3.1691897710.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/i-onde-dager-2-1634439962.jpg" group-title="Terror", El viaje
 https://server18.peliscdn.online/newhls/066c9682387e5ac650163102145897d8/EP.0.2.v1.1679267282.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/siberia-2020-1669876798.png" group-title="Terror", Siberia (2020)
 https://server39.peliscdn.online/newhls/798112b13ea7598f6f54ac319045f8a0/EP.0.2.v0.1676331543.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-bridge-curse-2-1627084442.jpg" group-title="Terror", El puente maldito
 https://server03.peliscdn.online/newhls/670d3d7ff0294ba014739b383c01f83d/EP.0.0.v1.1677052531.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ju-on-la-maldicion-1593199510.jpg" group-title="Terror", Ju-On: La Maldición
 https://server37.peliscdn.online/newhls/85df718ef168a7b242e8e9362eb2f72e/EP.0.0.v0.1677191176.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-maldicion-2020-1582989605.jpg" group-title="Terror", La Maldición
 https://server14.peliscdn.online/newhls/fbaf03f27e7a57dd072cce219e9a3074/EP.0.0.v0.1677365236.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/death-note-la-pelicula.jpg" group-title="Terror", Death Note: La Película
 https://server24.peliscdn.online/newhls/fb6dbae71c68e414e839ea03bc12341e/EP.0.0.v0.1677622879.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/death-note-2-el-ultimo-nombre.jpg" group-title="Terror", Death Note 2 : El Último Nombre
 https://server25.peliscdn.online/newhls/1d82a7a5011c03cbe77222682213e70d/EP.0.2.v1.1676509682.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/death-note-el-nuevo-mundo.jpg" group-title="Terror", Death Note: El Nuevo Mundo
 https://server36.peliscdn.online/newhls/4c72940425a43868c87d22a2ffd686f3/EP.0.0.v0.1677541800.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/death-note.jpg" group-title="Terror", Death Note
 https://server41.peliscdn.online/newhls/b4132a9553d4f8af0ebdc048d8f6063d/EP.0.1.v0.1677539935.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://oscar220374.com/wp-content/uploads/2023/10/xnFw9YuMfuRRzKXcmyQAsI8gy3x-200x300.jpg" group-title="Acción", El arte de matar
 https://player.osjonosu.xyz/videos/a9243edbc9c0c4c0f37c1189cbedd97e/1080/1080p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/boda-sangrienta-1574869207.jpg" group-title="Terror", Boda Sangrienta
 https://server16.peliscdn.online/newhls/ba4c1d615b367d4820378ab653aef6b6/EP.0.1.v1.1677559287.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-laberinto-del-fauno.jpg" group-title="Fantasía", El Laberinto del Fauno
 https://server12.peliscdn.online/newhls/7b8fd0e8345543058b1ba41a3df70847/EP.0.1.v1.1679650392.1080.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/diabolica-tentacion.jpg" group-title="Terror", Diabólica Tentación
 https://server37.peliscdn.online/newhls/dff3ee9a9d0f2fd6212ca2a77d54ae15/EP.0.1.v0.1677071062.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/12/2R7RUo3EGs3T3UdKPlfVQWkyUCD-170x252.jpg" group-title="Acción", Rebel Moon (Parte uno): La niña del fuego
 https://hls3.guayhd.me/videos/6e9a0c8334b489f0d7e184ae072fd06d/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/12/zCR24HZm2RYs6GfgcHPnin6U7vZ-170x255.jpg" group-title="Terror", Viernes negro
 https://hls3.guayhd.me/videos/59fa9a1cac92a80e2015dc821d871f18/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/12/90D6sXfbXKhDpd4S1cHICdAe8VD-170x255.jpg" group-title="Crimen", Finestkind
 https://hls3.guayhd.me/videos/ae6e7b3bc7088101c1e315cf85f89b49/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/12/mBiylEUJgWikljJJNB61u7dDPON-170x255.jpg" group-title="Acción, Comedia", Plan familiar
 https://hls3.guayhd.me/videos/906c8550a6ba4f6754c77cf5d75d9314/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/12/fSMW4FTD7pZr1t1oqG18NulZMQz-170x243.jpg" group-title="Drama, Suspenso", Un blanco fácil
 https://hls3.guayhd.me/videos/3f0959991e974624b77a25686b743275/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/12/w6fll4kwxhzG0iRdPRjFpuG8GmN-170x255.jpg" group-title="Drama, Suspenso", Huida sangrienta
 https://hls3.guayhd.me/videos/240b45bc7e39719a7c35a6009720b09d/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/12/45pDkZ986FayuGEkXz5paF6X6BO-170x255.jpg" group-title="Drama, Suspenso", En el desierto
 https://hls3.guayhd.me/videos/f1ad0b3acdf8cc0e71a07756fa61a31b/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/07/xCpmxw3UUjv4PGzbIPOHeoKAV0l-170x255.jpg" group-title="Acción", Misión Imposible 1
 https://hls3.guayhd.me/videos/a49868daf299aef4c62d9fca66070ca6/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/07/mskE3W88cjMRrnKQye8pjmJu3O1-170x255.jpg" group-title="Acción", Misión Imposible 2
 https://hls3.guayhd.me/videos/6a5671781800cc38ff0777fbe6deac5a/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/07/w61xBgFOfP8Z6uHKIKn1sl1TI8j-170x255.jpg" group-title="Acción", Misión Imposible 3
 https://hls3.guayhd.me/videos/91a75110c00f6b10b7977d99b94eda0d/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/07/y0hjsPyieqxcunEcAxb9mrrE09c-170x255.jpg" group-title="Acción", Misión imposible 4: Protocolo fantasma
 https://hls3.guayhd.me/videos/75916537b9343044ccf6af7c643935ab/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/07/ww0IX7Xla6tHgrwYSupfXcksV3n-170x255.jpg" group-title="Acción", Misión imposible 5: Nación secreta
 https://hls3.guayhd.me/videos/47d31c62c35a082265e7bfd1509e504c/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/07/6fSdqrkkhSHi2hD6WFTi2LF43Al-170x255.jpg" group-title="Acción", Misión imposible 6: Repercusión
 https://hls3.guayhd.me/videos/6fbb1abce945b1ab655e11805dec4792/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/07/83sGKvCv2T2CulYbd40Aeduc7n2-170x255.jpg" group-title="Acción", Misión Imposible 7: Sentencia mortal parte 1
 https://hls3.guayhd.me/videos/686f58e0c2f6b5211306caefecbcbab4/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/05/t9VXZkgcxpIwfPUKAWOOONs0vHv-170x255.jpg" group-title="Acción", Sisu
 https://hls3.guayhd.me/videos/c17ab9381be21880d550643580329201/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/kandahar-2-1686615001.jpg" group-title="Acción", Operación Kandahar
 https://hls3.guayhd.me/videos/f4ba5836f11f706f5f68304215eebabb/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/n8PWntxvxkXmvCBh4leEJ4BirF3.jpg" group-title="Terror", Pacto con El Diablo
 https://server19.peliscdn.online/newhls/f30e98d28563638dad345cff44629a25/EP.0.2.v1.1676173092.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-lost-city-2-1668846662.jpg" group-title="Comedia", La Ciudad Perdida
 https://hls.guayhd.me/videos/d04c56298391c8d8a7915e4028612ca0/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/sweet-girl-2-1629591127.jpg" group-title="Acción", Sweet Girl
 https://server03.peliscdn.online/newhls/206f3e4239b1e4626ebc64843928a1dd/EP.0.2.v1.1676462643.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/wA4xiTTBKOcKkKaWxpQSCrduM0z.jpg" group-title="Acción", Seis días y siete noches
 https://server23.peliscdn.online/newhls/ecbe4cc999cea8306f6636d72db2d4db/EP.0.1.v0.1677088825.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/9iFkwShRf5M29yLABAdsEZyr9w6.jpg" group-title="Acción", Greenland: El último refugio
 https://server25.peliscdn.online/newhls/e1d6c1351ddb9beae13694a1de1c8ea5/EP.0.1.v1.1696692654.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/zmsAZfYMe3m9JkCLrY7dVQrM90P.jpg" group-title="Acción", Salvaje
 https://server11.peliscdn.online/newhls/da2a2206b948c4733a1c2c9795f1bf30/EP.0.1.v1.1689827973.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_wrong_missy-952081239-large.jpg" group-title="Comedia" , La otra Missy
 https://ia903208.us.archive.org/11/items/la-otra-missy-2020-blu-ray-rip-ac-3-5.1-castellanowww.-pctreload.-com_202006/La%20Otra%20Missy%20%282020%29%20%5BBluRayRIP%5D%5BAC3%205.1%20Castellano%5D%5Bwww.PCTRELOAD.COM%5D.mp4
-
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/91/19/91/20134037.jpg" group-title="Comedia", Mentiroso Mentiroso
 https://server26.peliscdn.online/newhls/5b28a4eadb5bf9c7651ba72bba83b7a5/EP.0.1.v0.1678191688.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/3P0XaFVppkhwvzJis0g0XvIBekI.jpg" group-title="Acción", The Doorman
 https://server25.peliscdn.online/newhls/d407c619b2209f4fdc26852344179e96/EP.0.0.v0.1677140731.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/9vWqRab0UbFvSAMvWE4D7LYpcub.jpg" group-title="Acción", The Fatal Raid
 https://server11.peliscdn.online/newhls/14742ceb2b1f9c16b7d27d25c903c9b8/EP.0.0.v0.1677175566.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/89/70/52/20062937.jpg" group-title="Acción", CAOS
 https://server17.peliscdn.online/newhls/bbbb14a02c8d91051272790b47eb6b8d/EP.0.1.v0.1677415220.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://oscar220374.com/wp-content/uploads/2023/09/lfvyVNkTR269rD6AqLJ86ul5Uk0-200x300.jpg" group-title="Acción", Padre y soldado
 https://player.osjonosu.xyz/videos/70b8db898f86a2bb670eb1edb06f4d51/1080/1080p.m3u8
-
 #EXTINF:-1 tvg-logo="https://oscar220374.com/wp-content/uploads/2023/12/9uuhGX2xOaR4C4kkqcF0pJKlGJg-200x300.jpg" group-title="Terror", Qué bello es morir
 https://player.osjonosu.xyz/videos/c93083a1d321263ab467f1617576a4a7/1080/1080p.m3u8
-
 #EXTINF:-1 tvg-logo="https://oscar220374.com/wp-content/uploads/2023/12/pZI7MIHgiwYrG1juIwsk23UrE5c-200x300.jpg" group-title="Drama", La hija del pantano
 https://player.osjonosu.xyz/videos/648c4d0206ece83d5f3be19060e81a47/1080/1080p.m3u8
-
 #EXTINF:-1 tvg-logo="https://oscar220374.com/wp-content/uploads/2023/10/bo4ZsMQNDZMKIGBVDS80thiGVO2-200x300.jpg" group-title="Ciencia Ficcion", Vesper
 https://player.osjonosu.xyz/videos/b01100e1d8be02cf10ea2bb932d3c370/1080/1080p.m3u8
-
 #EXTINF:-1 tvg-logo="https://oscar220374.com/wp-content/uploads/2023/08/gUjmpgsG7fxPWejTmPMDLxFT7Yr-200x300.jpg" group-title="Comedia", H4Z4RD
 https://player.osjonosu.xyz/videos/0b33a2e05e604d51f3cbb6931249e40f/1080/1080p.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/d7APW2AfqUxIkEXZWllaWQRYixD.jpg" group-title="Acción", The Baker
 https://server26.peliscdn.online/newhls/2cc109ccdafccf0518895cf27391b033/EP.0.2.v0.1700056023.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/w4yUa5ly2DLRLqkp7nEE3n9GUwb.jpg" group-title="Acción", Templario
 https://server36.peliscdn.online/newhls/1ab477284095d99f01d9d18d4c6e4f5b/EP.0.0.v0.1677149957.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/fB5SMujIWbO7ldBOUA3Qka2f80W.jpg" group-title="Acción", Asaltantes De Europa (Europe Raiders)
 https://server12.peliscdn.online/newhls/bc9969c9c8d62042cd0008b796fbce73/EP.0.1.v0.1677094750.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gTArjYndmjEsrYPEYP1nD4q2WYj.jpg" group-title="Acción", Colors: Colores de guerra
 https://server45.peliscdn.online/newhls/4e5afdd58f72018ea1209899e2f86478/EP.0.1.v0.1677420972.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2024/01/rEeTuQSsEyM2bSG7rwvm23WJjfg-170x255.jpg" group-title="Terror", Corre
 https://hls.guayhd.me/videos/85e47626a8542cbaeb0db8214d677106/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/12/pNHvHwSrsDbA3jtUyxS2UZ34sqZ1-170x255.jpg" group-title="Comedia", Miss Shampoo
 https://hls.guayhd.me/videos/a97957408fab82be4b787909a32ef487/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2020/10/nacido-para-matar-170x255.jpg" group-title="Belico", Nacido para matar
 https://hls.guayhd.me/videos/76e8fa9331c1e01f1896515b2d83856b/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2020/09/nikita-170x255.jpg" group-title="Acción", Nikita: La cara del peligro
 https://hls.guayhd.me/videos/27f37d1c4f4f440b8ec430720274136a/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2019/08/durmiendo-con-su-enemigo-2419-poster-170x242.jpg" group-title="Crimen", Durmiendo con el enemigo
 https://hls3.guayhd.me/videos/27900b4bb39a97b5832b166ae871328f/360/360p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/04/ntJhIHpUzMtwlqLpzvzFtEDr1c3-170x241.jpg" group-title="Crimen", Una historia del Bronx
 https://hls.guayhd.me/videos/8f27e3fec78ec039f1963bf085c6e460/360/360p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2021/05/atrapado-por-su-pasado-12375-poster-170x255.jpg" group-title="Crimen", Caracortada 2: Atrapado por su pasado
 https://hls3.guayhd.me/videos/7d42a08460672328f0133c38da316cd6/360/360p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2020/08/matilda-8266-poster-170x255.jpg" group-title="Comedia", Matilda
 https://hls.guayhd.me/videos/388d8db87317f1600528c988b9836f24/360/360p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2021/03/tornado-11512-poster-170x255.jpg" group-title="Acción", Tornado
 https://hls3.guayhd.me/videos/ee839988abe5950c9ee3ba067346b32d/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/11/noj9aHMOBTsbQ4wdTJh2XjhxdAX-170x255.jpg" group-title="Comedia, Crimen", Un vecino peligroso
 https://hls3.guayhd.me/videos/2c9e434b51dd3dc56a322363af44c633/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2020/08/el-protegido-8452-poster-170x255.jpg" group-title="Drama, Misterio, Suspenso", El protegido
 https://hls.guayhd.me/videos/ba5acb4bf2031dcf4a972845ac74ba09/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2019/06/glass-cristal-1127-poster-170x255.jpg" group-title="Drama, Misterio, Suspenso", Glass
 https://hls.guayhd.me/videos/305d4ab6008c025c380f669586dcf3c6/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2021/03/lo-que-ellas-quieren-11522-poster-170x255.jpg" group-title="Comedia", Lo que ellas quieren
 https://hls3.guayhd.me/videos/e739a697380fe104faf2022375d3b0ef/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2020/08/scary-movie-8512-poster-170x255.jpg" group-title="Comedia", Scary Movie 1
 https://hls.guayhd.me/videos/54b960ee38ce28562da229535b669c8b/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2019/10/Irreversible-poster-170x246.jpg" group-title="Crimen", Irreversible
 https://hls.guayhd.me/videos/49c3c76678cd18ed4199a2baa94a6ae5/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/5d/81/e4/5d81e492e2c5f7ea0511759cad90c8a8.jpg" group-title="Suspenso", Carrie (2013) 
 https://hls.guayhd.me/videos/6c9d1da301599025d7a879d304ab2ac2/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2019/07/interstellar-1972-poster-170x243.jpg" group-title="Ciencia Ficcion", Interestelar
 https://hls.guayhd.me/videos/c8e3001491e26afef23b18f9e2b1ca9b/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2021/01/bruja-170x242.jpg" group-title="Terror", La Bruja
 https://hls3.guayhd.me/videos/78b2348bf9ca96b8cb2677c4d4d72591/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2020/02/xxx-reactivado-4957-poster-170x255.jpg" group-title="Acción", xXx 3: Reactivado
 https://hls3.guayhd.me/videos/5134017ebf3db76f94d3757636f0129e/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2021/02/la-habitacion-11371-poster-170x255.jpg" group-title="Terror", La Habitación / The Room
 https://hls3.guayhd.me/videos/7715c42b8b1f582f0779f854894f9e8b/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2019/10/el-camino-poster-hd-170x213.jpg" group-title="Crimen", El Camino: Una película de Breaking Bad
 https://hls.guayhd.me/videos/b66d91047a303f574dc62906eda14dd3/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2019/12/entre-navajas-y-secretos-4263-poster-170x252.jpg" group-title="Crimen", Entre Navajas y Secretos
 https://hls.guayhd.me/videos/ecd505f54db7de7cc96dc650ac246863/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2019/05/aladdin-292-poster-170x243.jpg" group-title="Fantasía", Aladdín
 https://hls.guayhd.me/videos/90c55a1760032f72f6d470752a4c7c5a/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-planeta-de-los-simios-2001.jpg" group-title="Acción",El Planeta de los Simios (2001)
 https://server22.peliscdn.online/newhls/c1a7d2e87218c04639e4adb1be779ce5/EP.0.1.v0.1677532612.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/kyCXO8lTKs62V5A4IsdNLjvskWM.jpg" group-title="Acción",El origen del planeta de los simios 2011
 https://server20.peliscdn.online/newhls/9a295c64ec41ff7909a47984d681dbb3/EP.0.1.v0.1677323815.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-planeta-de-los-simios-r-evolucion.jpg" group-title="Acción",El amanecer del planeta de los simios 2014
 https://server22.peliscdn.online/newhls/21ed79247eaca61708661ffd4cbf0805/EP.0.0.v0.1677642082.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-planeta-de-los-simios-2001.jpg" group-title="Acción",El Planeta de los Simios: Confrontación 2016
 https://server22.peliscdn.online/newhls/21ed79247eaca61708661ffd4cbf0805/EP.0.0.v0.1677642082.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-planeta-de-los-simios-la-guerra.jpg" group-title="Acción", El Planeta de los Simios: La Guerra 2017
 https://server23.peliscdn.online/newhls/8bba318cc11cd6c57b016ed2903ef31e/EP.0.1.v0.1677877164.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/atmosfera-cero.jpg" group-title="Acción", Atmosfera Cero
 https://server38.peliscdn.online/newhls/724add43d1e096d516a30a63d2d707f8/EP.0.1.v0.1677847488.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-lista-de-schindler.jpg" group-title="Acción", La Lista de Schindler
 https://server02.peliscdn.online/newhls/935d67c96303dcdd5020ae21cc3c79e3/EP.0.1.v0.1677434273.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/street-fighter-la-ultima-batalla-1574116506.jpg" group-title="Acción", Street Fighter: La Última Batalla
 https://server22.peliscdn.online/newhls/84ffeba0ee7d0e6679a052adf72a3be0/EP.0.1.v0.1677153444.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/asesinos-por-naturaleza.jpg" group-title="Acción", Asesinos por Naturaleza
 https://server46.peliscdn.online/newhls/69aa4929ce0360c41febadb5df1afbe4/EP.0.1.v0.1677148743.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mentes-peligrosas.jpg" group-title="Drama", Mentes Peligrosas
 https://server01.peliscdn.online/newhls/680942b8703135fd5436242b03ffb7d7/EP.0.1.v0.1677120726.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/seven-los-siete-pecados-capitales.jpg" group-title="Crimen", Seven, los Siete Pecados Capitales
 https://server22.peliscdn.online/newhls/98c0a86bebf540551aaf4e784b98dc4a/EP.0.1.v0.1677647027.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/asesinos.jpg" group-title="Acción", Asesinos
 https://server02.peliscdn.online/newhls/bb92b5b0e0872463aed2068dc9bcce98/EP.0.1.v0.1677637879.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/del-crepusculo-al-amanecer.jpg" group-title="Terror", Del Crepúsculo al Amanecer
 https://server23.peliscdn.online/newhls/595ab75c3b2d1e38135a85922312620f/EP.0.1.v0.1677627531.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-pacificador-1601140210.jpg" group-title="Acción", El Pacificador
 https://server15.peliscdn.online/newhls/46ea058114153f68cf6079b78180248b/EP.0.1.v1.1679664466.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-coleccionista-de-amantes.jpg" group-title="Acción", Besos que Matan
 https://server24.peliscdn.online/newhls/555521a7641913fc8c7eabbd8a2a0a1c/EP.0.1.v1.1677239637.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/tierra-de-policias.jpg" group-title="Acción", Tierra de Policias
 https://server22.peliscdn.online/newhls/ea9fa8dddc2a820a6c74b3e39cbb2916/EP.0.1.v0.1677568637.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/donnie-brasco.jpg" group-title="Crimen", Donnie Brasco
 https://server33.peliscdn.online/newhls/daaf544887b32ef9d53963e1b6427c8f/EP.0.1.v0.1677267266.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/jackie-brown.jpg" group-title="Crimen", Jackie Brown
 https://server22.peliscdn.online/newhls/397e7482cd4e0f075e0eab7a0a5ef615/EP.0.1.v0.1681883563.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-delgada-linea-roja-1574174405.jpg" group-title="Guerra", La Delgada Línea Roja
 https://server30.peliscdn.online/newhls/9440907b896ea35c26a055c636cf19b9/EP.0.1.v0.1677101417.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/rescatando-al-soldado-ryan.jpg" group-title="Guerra", Rescatando al Soldado Ryan
 https://server16.peliscdn.online/newhls/75de8a2b7721c8e8c0dd9d3c413a51e1/EP.0.1.v1.1677854762.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cuando-eramos-soldados-1592945709.jpg" group-title="Guerra", Cuando Éramos Soldados
 https://server41.peliscdn.online/newhls/f76bf4c6e3517a0dec4079eeee152535/EP.0.1.v0.1676874527.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-nino-con-el-pijama-de-rayas.jpg" group-title="Guerra", El Niño Con El Pijama De Rayas
 https://server43.peliscdn.online/newhls/995b8fb3f73f5b61571fad09c98e047e/EP.0.1.v0.1677394259.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/en-tierra-hostil-1585868705.jpg" group-title="Guerra", Zona de Miedo
 https://server27.peliscdn.online/newhls/2655eecf7127571b453b52fb5417f47f/EP.0.1.v0.1677779288.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/tigerland-1573759806.jpg" group-title="Guerra", Tigerland
 https://server02.peliscdn.online/newhls/ed289f141a9d5ac49ac7e0ff003dc74a/EP.0.1.v0.1677023205.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-dia-final.jpg" group-title="Terror", El Día FInal
 https://server36.peliscdn.online/newhls/e3460945aceacd126919e16bf169b83c/EP.0.1.v0.1677307913.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/asesinato-en-8mm-8mm.jpg" group-title="Crimen", Asesinato en 8mm (8MM)
 https://server33.peliscdn.online/newhls/a06ab90b440cff8b569b56d12cded6c3/EP.0.1.v0.1677266208.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/asesino-implacable.jpg" group-title="Acción", Asesino Implacable
 https://server19.peliscdn.online/newhls/fbc198e4d9e4601499fd9aa2258fed72/EP.0.1.v0.1677575072.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/dos-colgados-en-chicago-los-visitantes-cruzan-el-1582307405.jpg" group-title="Comedia", Dos Colgados En Chicago (Los Visitantes Cruzan El Charco)
 https://server34.peliscdn.online/newhls/a273bab7e17f9a716ad5e9a01eff8fd3/EP.0.1.v0.1677009091.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-reyes-del-crimen-1574203807.jpg" group-title="Crimen", Los Reyes del Crimen
 https://server14.peliscdn.online/newhls/202f7e19ed3afd9c14471f17b9850ae6/EP.0.1.v0.1677298462.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/dia-de-entrenamiento-1574192706.jpg" group-title="Crimen", Día de Entrenamiento
 https://server43.peliscdn.online/newhls/e4783f12072c8e15f88ed8b2cf056e6c/EP.0.1.v0.1677067290.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/enemigo-al-acecho.jpg" group-title="Guerra", Enemigo a las Puertas
 https://server06.peliscdn.online/newhls/8ec39cfed8084cbb93ab8b99dba04303/EP.0.1.v0.1677984263.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/asesinato-1-2-3-1601140510.jpg" group-title="Suspenso", Cálculo Mortal
 https://server16.peliscdn.online/newhls/a2eb40be6f4d297990f3c7231bd9cad5/EP.0.1.v1.1679691513.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/toda-la-verdad-1592846409.jpg" group-title="Crimen", Crimen en Primer Grado
 https://server33.peliscdn.online/newhls/8749ab6b3b6968a8f8be30972bde0d27/EP.0.1.v0.1676736067.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-maquina-del-tiempo.jpg" group-title="Ciencia Ficcion", La Maquina del Tiempo
 https://server15.peliscdn.online/newhls/2ec7d0880b26f5b1174f2ffe03cd80d0/EP.0.1.v0.1677300425.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/camino-a-la-perdicion.jpg" group-title="Crimen", Camino a la Perdición
 https://server46.peliscdn.online/newhls/7cf5d4d9f84e2283204f8719a996615c/EP.0.1.v0.1677426320.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/johnny-english.jpg" group-title="Comedia", Johnny English
 https://server10.peliscdn.online/newhls/f08785a86daf9ce9da9d2b9e64e78843/EP.0.1.v0.1679708880.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/d-e-b-s-espias-en-accion-1578506705.jpg" group-title="Acción", D.E.B.S. Espías en Acción
 https://server42.peliscdn.online/newhls/215b754491382a7d46429c6204140074/EP.0.1.v0.1677063099.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/sin-city-ciudad-del-pecado.jpg" group-title="Acción", Sin City: Ciudad del Pecado
 https://server17.peliscdn.online/newhls/f225690c256bebaf23ab1f18f9e45d6f/EP.0.1.v0.1677256644.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/crank.jpg" group-title="Acción", Crank
 https://server27.peliscdn.online/newhls/2ffdd755333a133ff66eec1f5dae6361/EP.0.1.v0.1679697111.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cleaner-1669479486.png" group-title="Acción", Cleaner
 https://server23.peliscdn.online/newhls/10fe2da280a2de9dc6a5b3049219d75c/EP.0.1.v0.1677287558.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-vidente-1574182810.jpg" group-title="Acción", El Vidente
 https://server36.peliscdn.online/newhls/08bc5a64452cc7c20926fce8ad22d888/EP.0.1.v0.1676910414.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/1408.jpg" group-title="Triller", 1408
 https://server36.peliscdn.online/newhls/e67b5137801067cd8dd15676cd4fb266/EP.0.1.v0.1677047546.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/sentencia-de-muerte.jpg" group-title="Crimen", Sentencia de muerte
 https://server40.peliscdn.online/newhls/aaf3ae1c637dd558d8541806a5e72eeb/EP.0.1.v0.1677189647.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/american-gangster.jpg" group-title="Crimen", American Gangster
 https://server45.peliscdn.online/newhls/6405b334d4682a2bd9b1a9b23daf4028/EP.0.1.v0.1678447082.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-numero-23.jpg" group-title="Triller", El Numero 23
 https://server26.peliscdn.online/newhls/05d4b86a6b741f4a0a9cdc19c7d3f799/EP.0.1.v0.1678029589.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/encantada-la-historia-de-giselle.jpg" group-title="Familiar", Encantada: La Historia de Giselle
 https://server24.peliscdn.online/newhls/98ef86f1815cf4ba49a377787d2d7166/EP.0.1.v0.1677435757.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/las-ruinas-1602096910.jpg" group-title="Terror", Las Ruinas
 https://server01.peliscdn.online/newhls/5e6332d235b75770fec7b2e606f65dfe/EP.0.1.v1.1676788644.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/fritt-vilt-cold-prey-1669392489.png" group-title="Terror", Fritt Vilt (Cold Prey)
 https://server05.peliscdn.online/newhls/0ed3621b2a4e1d5b58c3753304adc141/EP.0.1.v0.1677200730.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cold-prey-2-1601416211.jpg" group-title="Terror", Cold Prey 2
 https://server21.peliscdn.online/newhls/fa03fb76e3491f5691db9de140154a57/EP.0.0.v0.1677246485.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cold-prey-3-1601416211.jpg" group-title="Terror", Cold Prey 3
 https://server20.peliscdn.online/newhls/f9e796830ee216170f59c22ec685fdb6/EP.0.0.v0.1677203144.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-gran-golpe-1595451309.jpg" group-title="Acción", El Gran Golpe
 https://server26.peliscdn.online/newhls/8036da31b3785498cfdc87e58981b1ad/EP.0.1.v0.1677614983.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/justo-en-la-mira-1582149004.jpg" group-title="Acción", Justo en la Mira
 https://server16.peliscdn.online/newhls/dc4bd320d0891d92ac17c0e68676d5ff/EP.0.1.v0.1677510158.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/escondidos-en-brujas-1580158205.jpg" group-title="Terror", Escondidos en Brujas
 https://server11.peliscdn.online/newhls/d77bba63f6a5a2b0cd48dee0043b7916/EP.0.1.v0.1677100120.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/rocknrolla-1574112306.jpg" group-title="Acción", RocknRolla
 https://server17.peliscdn.online/newhls/d6b2c657cd4b5fa1e7124ec7b34fc092/EP.0.1.v0.1677208372.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/australia-1572909005.jpg" group-title="Acción", Australia
 https://server17.peliscdn.online/newhls/8316d2b3503f0b427fa6bd26ca338a5b/EP.0.1.v0.1677212731.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-incidente.jpg" group-title="Triller", Fin de Los Tiempos
 https://server17.peliscdn.online/newhls/fcde73ccb79a233649c057d3513c6ed0/EP.0.1.v0.1677340790.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/control-total.jpg" group-title="Acción", Control Total
 https://server01.peliscdn.online/newhls/d23c96646adf4364a1c8d7e10c01a87e/EP.0.1.v0.1677361994.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/un-tipo-de-peligro.jpg" group-title="Acción", Negocios de Guerra
 https://server44.peliscdn.online/newhls/691ccd93d7fc813e519433984b910632/EP.0.1.v0.1677255014.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-momia-1999.jpg" group-title="Acción", La Momia
 https://server47.peliscdn.online/newhls/3dd036a05c8f6b7644ee26c5aa0507ee/EP.0.1.v0.1677992638.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-momia-regresa.jpg" group-title="Acción", La Momia Regresa
 https://server22.peliscdn.online/newhls/3ffe49bd194c3ae35ab8958243b6780d/EP.0.1.v0.1681823325.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-momia-3-la-tumba-del-emperador-dragon.jpg" group-title="Acción", La Momia 3: La Tumba del Emperador Dragón
 https://server47.peliscdn.online/newhls/b0586f736f1b3e8441b12f68365622b0/EP.0.1.v0.1677780374.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-vagon-de-la-muerte.jpg" group-title="Terror", El Vagón de la Muerte
 https://server33.peliscdn.online/newhls/3f371748f2ad0fa92aecab016781d6e7/EP.0.1.v0.1677129146.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-retrato-de-dorian-gray-2009-1606250409.jpg" group-title="Terror", El Retrato de Dorian Gray (2009)
 https://server39.peliscdn.online/newhls/e766a300b8da82dcdccf7e53f228fe33/EP.0.1.v1.1676692975.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/g-force-licencia-para-espiar-1573768207.jpg" group-title="Familiar", Fuerza G
 https://server14.peliscdn.online/newhls/74ea66d84ee6b0094de59a261ef7fcc2/EP.0.1.v0.1677299440.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/identidad-sustituta.jpg" group-title="Ciencia Ficcion", Identidad Sustituta
 https://server45.peliscdn.online/newhls/2760d7177663c4fed3a9749f322e52b2/EP.0.1.v0.1678021291.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/AhzoJZC9HfeSsEwZr0manmJEykq.jpg" group-title="Ciencia Ficcion", Millennium : Los hombres que no amaban a las mujeres La Chica del Dragón Tatuado
 https://server43.peliscdn.online/newhls/9039f62d28ffd6dd6a6b21f8c455246e/EP.0.1.v0.1677371227.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/millennium-2-la-chica-que-sonaba-con-una-cerilla.jpg" group-title="Acción", Millennium 2: La Chica que Soñaba con una Cerilla y un Bidón de Gasolina
 https://server18.peliscdn.online/newhls/bfab187d77833f1dfb5dceb5db213184/EP.0.1.v0.1677084074.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/millennium-3-la-reina-en-el-palacio-de-las.jpg" group-title="Acción", Millennium 3: La Reina en el Palacio de las Corrientes de Aire
 https://server04.peliscdn.online/newhls/10f68bace9a3eb7ee8a0790b977eb8dd/EP.0.1.v0.1677123359.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/c156owEtfOYVIOl0LSrqjRewZdg.jpg" group-title="Acción", Millennium 4: Lo que no te mata te hace más fuerte
 https://server06.peliscdn.online/newhls/104934eddda66382648882c92f65af3e/EP.0.1.v0.1677842438.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-triangulo.jpg" group-title="Acción", El Triángulo
 https://server36.peliscdn.online/newhls/da47dc5fc549e1fb9ebb0e7356c81276/EP.0.1.v0.1677493829.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mas-alla-de-la-muerte.jpg" group-title="Terror", Más Allá de la Muerte
 https://server41.peliscdn.online/newhls/6fd8edbeafa59f6ed03582c9a2b61b55/EP.0.1.v0.1677320764.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/star-trek.jpg" group-title="Ciencia Ficcion", Star Trek
 https://server30.peliscdn.online/newhls/7335c91a8d5112123312c529f5859679/EP.0.1.v0.1677370127.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-ugly-truth-la-cruda-realidad.jpg" group-title="Comedia", La Cruda Verdad
 https://server09.peliscdn.online/newhls/3c4a7cebd5ec33501a998974ada9d4fd/EP.0.1.v0.1679696987.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2024/01/nGQYZ0TEUoGOlBzTCLFUCTRkZuQ-170x255.jpg" group-title="Historia", Napoleón
 https://hls4.guayhd.me/videos/2d34472a11f6ec24a9680d33dd65d8c2/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/y9Zp949JZCwDGz4BtBO5h2pHigz.jpg" group-title="Terror", Mamá y papá
 https://server27.peliscdn.online/newhls/83c06a7e77cb488e25d696d401ca5aaa/EP.0.1.v0.1678275142.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/49PQ64UqZxJHE5ECnpJNi5UUXEU.jpg" group-title="Drama Historia", Black Death
 https://server18.peliscdn.online/newhls/3a4925348d33ba204c97caba2f5490fb/EP.0.1.v0.1676606086.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/hp6jTcAt5qRA5jssEP2tkrdWtqW.jpg" group-title="Guerra", 71: Into the Fire
 https://server12.peliscdn.online/newhls/fae2421e0aa7f9cd07eeafd4922e050b/EP.0.1.v0.1677278357.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/u9dUF1YjDPL5OOlR6GbeYcvu6Q0.jpg" group-title="Acción", Gun
 https://server17.peliscdn.online/newhls/d4819a4afbe52f6431a1225bdd778352/EP.0.1.v0.1677285003.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/8jI4VDUWPVM4I91xBhObCLMQhnM.jpg" group-title="Acción", Robin Hood
 https://server13.peliscdn.online/newhls/6721e327b68def73dafaecdf3a452241/EP.0.1.v0.1677390857.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/q3s90VSh8jH6D86uhumqAiNv8CM.jpg" group-title="Guerra", La fortaleza de Brest
 https://server04.peliscdn.online/newhls/02d51e1c2772b0f3be5893fe2c1ada5a/EP.0.0.v0.1677478869.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/jgFebehDmRJLr1SoI52gnpuyDZp.jpg" group-title="Crimen", 22 balas
 https://server03.peliscdn.online/newhls/e7c84383f435f6911745f0c840d6f8f8/EP.0.1.v0.1677258228.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/9KZhyJPLNX6tP2wJtqJVScAKiPU.jpg" group-title="Drama", Betty Anne Waters
 https://server01.peliscdn.online/newhls/b267ddba8a0e9d2397af098adb9e7292/EP.0.1.v0.1677195798.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/oph4jJLezMsX0uQ5UYDOR0CVerb.jpg" group-title="Acción", The Tourist
 https://server28.peliscdn.online/newhls/ba6451e8216a89352d06ced7a2652932/EP.0.1.v0.1677343706.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2024/01/bHZQYKJV1rV01S3kNZ3hEYz8VNM-170x243.jpg" group-title="Acción", Beekeeper: Sentencia de muerte
 https://hls4.guayhd.me/videos/5e1431cd00f4be23859d8595aa780f30/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2024/02/jPGbcbMlzGUECukPhkEMVt1Kvs5-170x255.jpg" group-title="Acción", Cazadores en tierra inhóspita
 https://hls4.guayhd.me/videos/4fbaffce44133c7de7d93d39416fcfe3/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/12/x6p5jZw7YwqBadiKBDzmXs03Emz-170x255.jpg" group-title="Familiar", Wonka
 https://hls4.guayhd.me/videos/97884c5c9ba5218ff353d0a0389e88b9/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2024/01/5LzUc0LBM1RGlooQUsqbsGHZQHW-170x255.jpg" group-title="Animación", ¡Patos!
 https://hls4.guayhd.me/videos/5825fd048ec83d5a6c44949a22973d51/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2024/01/veUHao6XPxcb5MeRDdhokevxiz5-170x255.jpg" group-title="Acción", Lift: Un robo de primera clase
 https://hls4.guayhd.me/videos/4d2e62165ef833efd1941ec19f7a83a4/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2024/01/bnG0VwIw9oBFVn58Z9cixVLsn93-170x255.jpg" group-title="Acción", Juego de roles
 https://hls4.guayhd.me/videos/c66c62a7a62df2b43cd70cf6a94eccbc/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://oscar220374.com/wp-content/uploads/2024/02/7O4ZxkNax7txZwRjDESVCKbtfAh-200x300.jpg" group-title="Acción", The Warrant: Breaker’s Law
 https://player.osjonosu.xyz/videos/bb8defd0f2afb9593221d58ce57037ae/1080/1080p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/tomb-raider.jpg" group-title="Acción", Tomb Raider 2018
 https://server08.peliscdn.online/newhls/3f87dbaef88c41824843d5c44ef4fffd/EP.0.1.v0.1679678462.720.m3u8
+https://cache002.peliscdn.online/newhls/3f87dbaef88c41824843d5c44ef4fffd/EP.0.1.v0.1709086534.720.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/atentado-en-paris.jpg" group-title="Acción", Atentado En Paris
 https://server44.peliscdn.online/newhls/a6b9bebb20f3c51b9a493d58bed27eeb/EP.0.0.v1.1677645841.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/dulce-venganza.jpg" group-title="Acción", Dulce Venganza
 https://server22.peliscdn.online/newhls/a531ad23b826e00155eca5b9d5633ca6/EP.0.1.v0.1677491398.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/un-detective-en-el-kinder.jpg" group-title="Acción", Un Detective en el Kinder
 https://server27.peliscdn.online/newhls/8ca1d2a8eb7ee3076d5f6d2e597f7efc/EP.0.1.v0.1679726408.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/loca-academia-de-pilotos.jpg" group-title="Acción", Loca Academia De Pilotos
 https://server23.peliscdn.online/newhls/ebd47927a51c5cc2712d254ba7b7125c/EP.0.1.v0.1681959990.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-dia-final.jpg" group-title="Acción", El Día FInal
 https://server36.peliscdn.online/newhls/e3460945aceacd126919e16bf169b83c/EP.0.1.v0.1677307913.360.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/jack-ryan-codigo-sombra.jpg" group-title="Acción", Jack Ryan: Código Sombra
 https://server02.peliscdn.online/newhls/a6d80a29e3712d54c868cad60a327e25/EP.0.1.v0.1677413611.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/kite.jpg" group-title="Acción", Kite
 https://server12.peliscdn.online/newhls/f4bd5caaf80c286a882edab58a01ebbe/EP.0.1.v0.1677478490.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-lovers.jpg" group-title="Acción", The Lovers
 https://server13.peliscdn.online/newhls/c35117e7496eec22b5dd60ed48377115/EP.0.1.v1.1677557891.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/star-trek-sin-limites.jpg" group-title="Acción", Star Trek: sin Límites
 https://server27.peliscdn.online/newhls/d7dffe258d6dc5f5d7d9061387449d85/EP.0.1.v0.1678331444.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ascenso.jpg" group-title="Comedia", Ascenso
 https://hls3.guayhd.me/videos/185132cdea90cddb5adee86e232279c2/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2024/02/ja4FMDkYm3VrAN4Ba7cHcTr5Arl-170x255.jpg" group-title="Acción", Un trueno en la oscuridad
 https://hls3.guayhd.me/videos/b778b98bebfe2e82678f7ae62623cba2/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2024/01/bHZQYKJV1rV01S3kNZ3hEYz8VNM-170x243.jpg" group-title="Acción", Beekeeper: Sentencia de muerte
 https://hls4.guayhd.me/videos/5e1431cd00f4be23859d8595aa780f30/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/09/61vG9UNWfH5en1WoLxGtROXU9o71-170x243.jpg" group-title="Acción", Los indestructibles 4
 https://hls4.guayhd.me/videos/66b3462c4af275ed9057a86dd70a8658/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/splice-experimento-mortal.jpg" group-title="Acción", Splice: Experimento Mortal
 https://cache012.peliscdn.online/newhls/ffcc7aab49cf13f67215c0f907425494/EP.0.1.v0.1708801227.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/especies.jpg" group-title="Acción", Especie Mortal
 https://cache018.peliscdn.online/newhls/1068514aef5b8cfd8281091e39bb1928/EP.0.1.v0.1709274563.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/especies-ii.jpg" group-title="Acción", Especie Mortal 2
 https://cache019.peliscdn.online/newhls/6f2531ec31193c68821ff8462900642f/EP.0.1.v0.1709241919.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/especies.jpg" group-title="Acción", Especie Mortal 3
 https://cache020.peliscdn.online/newhls/72b271e8dff33ffc782cb2ae543df383/EP.0.1.v0.1709398616.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/duro-de-cuidar.jpg" group-title="Acción", Duro de Cuidar (cuevana3.ch)
 https://server22.peliscdn.online/newhls/338e421e8bd8c788f2a3726261b7dcff/EP.0.2.v0.1681794455.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/duro-de-cuidar.jpg" group-title="Acción", Duro de Cuidar 2 (pelisforte)
 https://hls4.guayhd.me/videos/67058fb7863ab28ba0e11212545dda8b/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2024/03/blq050GHBt0Fzx1j9FvohaEuknJ-170x255.jpg" group-title="Acción", Madame Web
 https://hls3.guayhd.me/videos/4c3045ab0fd040951ab29ed8f1f70878/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisforte.se/wp-content/uploads/2024/02/jPGbcbMlzGUECukPhkEMVt1Kvs5-170x255.jpg" group-title="Acción", Cazadores en tierra inhóspita
 https://hls4.guayhd.me/videos/4fbaffce44133c7de7d93d39416fcfe3/720/720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/vUUAAOSwweNiuCEe/s-l500.jpg" group-title="Acción", Hostile Territory
 https://cache019.peliscdn.online/newhls/a61c9389daf0444728441ba8ad226ff0/EP.0.2.v1.1708770980.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cargo.jpg" group-title="Acción", Cargo
 https://cache004.peliscdn.online/newhls/779f7162127fbfa14db315d8fee72800/EP.0.1.v0.1709101177.720.m3u8
-
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/tomb-raider.jpg" group-title="Acción", Tomb Raider
+#XTINF:-1 tvg-logo="https://pelisimg.online/cover/tomb-raider.jpg" group-title="Acción", Tomb Raider
 https://cache002.peliscdn.online/newhls/3f87dbaef88c41824843d5c44ef4fffd/EP.0.1.v0.1709086534.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-momia.jpg" group-title="Acción",La Momia
 https://cache013.peliscdn.online/newhls/e7da0f56b3e052ab8e46d7718913d0a9/EP.0.1.v0.1709213303.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/resident-evil-2-1668830844.jpg" group-title="Acción",Resident Evil
+https://cache013.peliscdn.online/newhls/3aadb3d05804a8af6c5d460610d390e6/EP.0.1.v0.1708747894.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/resident-evil-2-apocalipsis.jpg" group-title="Acción",Resident Evil 2: Apocalipsis
+https://cache018.peliscdn.online/newhls/ac967927482fb5e977d09d5a0141c485/EP.0.1.v0.1708781754.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/resident-evil-3-extincion.jpg" group-title="Acción",Resident Evil 3: Extinción
+https://cache017.peliscdn.online/newhls/17032c967db5e0437e86bc7f93f616dc/EP.0.1.v0.1708792104.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisforte.se/wp-content/uploads/2021/05/resident-evil-resurreccion-12025-poster-170x255.jpg" group-title="Acción",Resident Evil 4: Resurrección  (pelisforte.se) 
+https://hls3.guayhd.me/videos/657ba42ae25021044672c978a1e229cd/720/720p.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/resident-evil-5-la-venganza.jpg" group-title="Acción",Resident Evil 5: Venganza (pelisforte.se) 
+https://hls3.guayhd.me/videos/f21afae0928b6bad0f1ca04c42c536e8/720/720p.m3u8
+#EXTINF:-1 tvg-logo="https://pelisforte.se/wp-content/uploads/2021/05/resident-evil-capitulo-final-12044-poster-170x240.jpg" group-title="Acción",Resident Evil 6: Capítulo final (pelisforte.se) 
+https://hls3.guayhd.me/videos/16fcb0babdcdd2350448ab10fa1a7078/720/720p.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/resident-evil-welcome-to-raccoon-city-2-1638056433.jpg" group-title="Acción",Resident Evil: Bienvenidos a Raccoon City(pelisforte.se)
+https://hls.guayhd.me/videos/848ce0082a880218e03122d308c17689/720/720p.m3u8
