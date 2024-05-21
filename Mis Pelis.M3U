@@ -1214,8 +1214,6 @@ https://hls4.guayhd.me/videos/e73f4c6bbff5320750fe829566772c3d/720/720p.m3u8
 https://hls4.guayhd.me/videos/aba3b72feddf8aa88d0b71542546f548/720/720p.m3u8
 #EXTINF:-1 tvg-logo="https://www1.pelisforte.se/wp-content/uploads/2024/05/nFBjI5qFkqfvEvEx6VaylKGSOqp-170x255.jpg" group-title="Acción", Colateral
 https://hls4.guayhd.me/videos/5056dd4fbc80d33aa51a50e95545a178/720/720p.m3u8
-#EXTINF:-1 tvg-logo="https://www1.pelisforte.se/wp-content/uploads/2024/04/cI5C7NDOdEMWdoaECMX1LChwabd1-170x255.jpg" group-title="Acción", Ghostbusters: Apocalipsis fantasma
-https://hls4.guayhd.me/videos/0379682be6bbcdb5b8b2536837c18416/720/720p.m3u8
 #EXTINF:-1 tvg-logo="https://www1.pelisforte.se/wp-content/uploads/2022/10/ulBLIBqvdnf4H6JBt0OpMCU1ECn-170x255.jpg" group-title="Comedia, Misterio, Suspenso, Terror", Pearl
 https://hls.guayhd.me/videos/13af46d209a6a12fb4839c4cc86662c7/720/720p.m3u8
 #EXTINF:-1 tvg-logo="https://www1.pelisforte.se/wp-content/uploads/2024/05/rl3jz0ovDcuKDvHdKVifiQfFzVL-170x255.jpg" group-title="Crimen, Misterio, Suspenso", Bajo anestesia
@@ -1232,3 +1230,11 @@ https://hls.guayhd.me/videos/3b26e5e69e1ac32e982714bd9c44888e/720/720p.m3u8
 https://hls.guayhd.me/videos/de84f60f4b6f84986e38caad7ab9352c/720/720p.m3u8
 #EXTINF:-1 tvg-logo="https://www1.pelisforte.se/wp-content/uploads/2019/08/la-chica-de-al-lado-2489-poster-170x255.jpg" group-title="Comedia", La chica de al lado
 https://hls.guayhd.me/videos/3e30c9e6df5cbea79354b7742c899f20/720/720p.m3u8
+#EXTINF:-1 tvg-logo="https://www1.pelisforte.se/wp-content/uploads/2023/05/mxfLOWnHnSlbdraKfzRn5mqoqk7-170x255.jpg" group-title="Belico", El pianista
+https://hls.guayhd.me/videos/7791cd61dedb5e128b7cfc60ee5257ce/720/720p.m3u8
+#EXTINF:-1 tvg-logo="https://www1.pelisforte.se/wp-content/uploads/2020/03/swallow-5345-poster-170x255.jpg" group-title="Terror", Swallow
+https://hls.guayhd.me/videos/93cadfd9b336ce6705228d61248083b3/720/720p.m3u8
+#EXTINF:-1 tvg-logo="https://www1.pelisforte.se/wp-content/uploads/2022/12/wtCpQc9SP6fB7EVSmE36G0pCK1r-170x255.jpg" group-title="Acción", La roca
+https://hls.guayhd.me/videos/d0d210aacb3272458ff1ab97f5726d37/720/720p.m3u8
+#EXTINF:-1 tvg-logo="https://www1.pelisforte.se/wp-content/uploads/2020/12/ava-10530-poster-170x255.jpg" group-title="Acción", Ava
+https://hls.guayhd.me/videos/1eec255981e3820b5439314fe4cd2ed3/720/720p.m3u8
