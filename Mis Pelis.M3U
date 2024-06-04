@@ -784,8 +784,6 @@ https://server16.peliscdn.online/newhls/ba4c1d615b367d4820378ab653aef6b6/EP.0.1.
 https://server12.peliscdn.online/newhls/7b8fd0e8345543058b1ba41a3df70847/EP.0.1.v1.1679650392.1080.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/diabolica-tentacion.jpg" group-title="Terror", Diabólica Tentación
 https://server37.peliscdn.online/newhls/dff3ee9a9d0f2fd6212ca2a77d54ae15/EP.0.1.v0.1677071062.360.m3u8
-#EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/12/2R7RUo3EGs3T3UdKPlfVQWkyUCD-170x252.jpg" group-title="Acción", Rebel Moon (Parte uno): La niña del fuego
-https://hls3.guayhd.me/videos/6e9a0c8334b489f0d7e184ae072fd06d/720/720p.m3u8
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/12/zCR24HZm2RYs6GfgcHPnin6U7vZ-170x255.jpg" group-title="Terror", Viernes negro
 https://hls3.guayhd.me/videos/59fa9a1cac92a80e2015dc821d871f18/720/720p.m3u8
 #EXTINF:-1 tvg-logo="https://pelisforte.nu/wp-content/uploads/2023/12/90D6sXfbXKhDpd4S1cHICdAe8VD-170x255.jpg" group-title="Crimen", Finestkind
@@ -1260,3 +1258,11 @@ https://hls4.guayhd.me/videos/256c8e0af41c1b352197671dfb118f1f/720/720p.m3u8
 https://hls2.guayhd.me:26472/videos/afda50aa3f0d03cdb4abfee7dc9e60a3/720/720p.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/escape-de-los-angeles.jpg" group-title="Acción", Escape de Los Ángeles
 https://fast1.next-stream.xyz/movie/1713297600/188378_1.m3u8
+#EXTINF:-1 tvg-logo="https://www1.pelisforte.se/wp-content/uploads/2024/04/qPAbI8isy1J7Z2I66kmI3mC9DQV-170x255.jpg" group-title="Comedia", El cielo puede esperar
+https://hls3.guayhd.me/videos/9aa3218ef8cfa1e0d4d717787616ba78/720/720p.m3u8
+#EXTINF:-1 tvg-logo="https://www1.pelisforte.se/wp-content/uploads/2019/05/delicatessen-215-poster-170x255.jpg" group-title="Ciencia ficción", Delicatessen
+https://hls.guayhd.me/videos/0d4721140d6f592eaea0bc229860e7ee/720/720p.m3u8
+#EXTINF:-1 tvg-logo="https://www1.pelisforte.se/wp-content/uploads/2020/09/el-cuervo-8635-poster-170x255.jpg" group-title="Acción", El Cuervo
+https://hls4.guayhd.me/videos/44159f1e1da38dd1f291b733cbec6dac/720/720p.m3u8
+#EXTINF:-1 tvg-logo="https://www1.pelisforte.se/wp-content/uploads/2020/02/epidemia-5028-poster-170x255.jpg" group-title="Acción", Epidemia
+https://hls.guayhd.me/videos/484cf2f81665d91804de3c983aa6ad51/720/720p.m3u8
