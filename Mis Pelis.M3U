@@ -1376,3 +1376,7 @@ https://www.terabox.com/share/extstreaming.m3u8?uk=4398612657671&shareid=4048569
 https://www.terabox.com/share/extstreaming.m3u8?uk=4398612657671&shareid=12635028748&type=M3U8_AUTO_360&fid=127632638279051&sign=17fccd87f58859457f3931d91cc74549f47c4bd4&timestamp=1718326733&jsToken=CF67CC59AE3C9770E5F213D22CFD499BB328F06DF1308AB28FA73FA2303612ED923D25102A634E5D18E97BA88F08B429AE469D5B86A7B3E96F2FE69F54E98D2E60CA63BF70DE3DB5AE9938FE05332B7A82EC2FAC2ACE3643FDBA7638243ED979&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/bf5a5c2e8b96b4f50b6cd610ec129817634f93d402abffa2fd8c6d1699f0b855.jpg" group-title= "Acción", El protector
 https://cache004.peliscdn.online/newhls/a1172e14cb5b679fb39c2f1c8118a59d/EP.0.2.v0.1708655995.720.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/90QFOG5zSN4cbrIVs4DL4ePAuA5.jpg" group-title= "Acción", Gladiador
+https://cache005.peliscdn.online/newhls/62dd968f0ba10b9996e1384c5cff4b89/EP.0.1.v0.1709100913.360.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/27WJUPZtF5pPM9tm76AsmhR0wBF.jpg" group-title= "Acción", Outlawed
+https://cache017.peliscdn.online/newhls/0d089fe232e3f29aa0525d9b3889ce19/EP.0.2.v0.1709561214.360.m3u8
