@@ -1310,8 +1310,6 @@ https://hls.guayhd.me/videos/3760208f7fc2eac0a51a1e3189f49724/720/720p.m3u8
 https://hls.guayhd.me/videos/5ea78e82f730617f0f03ad13a6c3a6fa/720/720p.m3u8
 #EXTINF:-1 tvg-logo="https://www1.pelisforte.se/wp-content/uploads/2020/03/la-cabana-5506-poster-170x255.jpg" group-title="Drama", La cabaña
 https://hls3.guayhd.me/videos/fba2fef1672ba76811657261ad07e235/720/720p.m3u8
-#EXTINF:-1 tvg-logo="https://www1.pelisforte.se/wp-content/uploads/2019/09/un-lugar-en-silencio-poster-170x243.jpg" group-title="Ciencia ficción", Un lugar en silencio 1
-https://hls3.guayhd.me/videos/61d7512a49a82f63d10a253a47ff1353/720/720p.m3u8
 #EXTINF:-1 tvg-logo="https://www1.pelisforte.se/wp-content/uploads/2020/11/el-carnicero-9936-poster-170x255.jpg" group-title="Crimen", El carnicero
 https://hls.guayhd.me/videos/d87e109373fa75ede2f13ebbab28db15/720/720p.m3u8
 #EXTINF:-1 tvg-logo="https://www1.pelisforte.se/wp-content/uploads/2020/10/alma-maldita-9591-poster-170x255.jpg" group-title="Suspenso", Alma Maldita
@@ -1386,8 +1384,6 @@ https://cache010.peliscdn.online/newhls/33bdb062517f463d7b907bbb76343030/EP.0.1.
 https://www.terabox.com/share/extstreaming.m3u8?uk=4398612657671&shareid=60869328862&type=M3U8_AUTO_360&fid=545938707624758&sign=16e03244ad6db73b88d3cfef6dd588d7856cd700&timestamp=1718412234&jsToken=FED99CE1E9703672E210C135A0828C46932FB175994A69071ED47A6B5CD98369F04AA2B508703C36A978979D162A7BA52994393FCF542FA3099F3838215AE69A69AF944CAC03A806E1C8DE21DEA9E3E80EC2A6D58DD6820482AE3A5105608498&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/green_lantern-386006142-large.jpg" group-title= "Acción", Linterna Verde [EXTENDIDA]
 https://myscloud.xyz/uploads/CineLatino/Peliculas/Linterna-verde.mp4
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/en-busca-de-la-esmeralda-perdida.jpg" group-title= "Acción", En Busca de la Esmeralda Perdida
-https://plustream.com/api-embed/402df0d2-9cdb-4894-98cc-a2a9d2bfb866/master_534p.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2aWRlb0lkIjoiNDAyZGYwZDItOWNkYi00ODk0LTk4Y2MtYTJhOWQyYmZiODY2IiwiaXAiOiIxNzcuMjIyLjYzLjE2OCIsImlhdCI6MTcxODc1Njg3MiwiZXhwIjoxNzE4NzU3NDcyfQ.t8hUIPDJY9l8eAmczkoyUb8e8XD-uphl45NvsjyNfM8
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/bachelor_party-197030796-large.jpg" group-title= "Comedia", Despedida de soltero
 https://myscloud.xyz/uploads/CineLatino/Peliculas/Despedida-de-soltero.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/if-160232365-large.jpg" group-title= "Fantasía", Amigos imaginarios
@@ -1416,7 +1412,8 @@ https://ogwjrjvvkz9r.enaak-cdn.com/hls2/01/01227/h0adkf17zexu_,l,n,.urlset/maste
 https://ogwjrjvvkz9r.enaak-cdn.com/hls2/01/01257/y22t6saut3qy_,l,n,h,.urlset/master.m3u8?t=ui_vJyTFJTIM1M7WSMAjRG759dIRkkWZxl32RupruEM&s=1718923164&e=129600&f=6287386&srv=xcSmCe7bTlvM&i=0.4&sp=500&p1=xcSmCe7bTlvM&p2=xcSmCe7bTlvM&asn=27882
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/uIfnZlNwROZjPdjvn38gF5FMFKg.jpg" group-title= "Terror ",Blood and Snow
 https://www.terabox.com/share/extstreaming.m3u8?uk=4398612657671&shareid=4321030728&type=M3U8_AUTO_360&fid=104743784879237&sign=e65e7fde70a3ced89726ce1bfff67d673adb5b50&timestamp=1718923509&jsToken=7BB5312E09832C2AF7468F8B3B95D87941BE51C84A6BE3C51E9FBBF86F0755CD90E1DDEBF81F809B7E72F09A526CD35727EDAEC917879211E9D65A63ED715F30DF0094DDF6B930B6EBBF855BFCD7145C7CCCA6D3F580A2C4620CDEBEE2975B2D&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:-1 tvg-logo="https://repelishd.cam/uploads/mini/cuimage/fe/3c6d002a4e4d3842963f8bf0ecee8b.jpg" group-title= "Acción ",Bad Boys for Life (https://repelishd.cam/)
+#EXTINF:-1 tvg-logo="https://repelishd.cam/uploads/mini/cuimage/fe/3c6d002a4e4d3842963f8bf0ecee8b.jpg" group-title= "Acción ",Bad Boys for Life
 https://hfs269.serversicuro.cc/hls/,dnzpfee433g4a3gyvdrx5yjvyf52w5bedtitk2wf3ttnnwf2komrmtunwnwa,.urlset/master.m3u8
-#EXTINF:-1 tvg-logo="https://repelishd.cam/uploads/mini/cuimage/c9/956c26c053ebb7e2cd4635c38ccccc.jpg" group-title= "Acción ",n the Land of Saints and Sinners (https://repelishd.cam/)
+https://hfs269.serversicuro.cc/hls/,dnzpekt327g4a3gyvbnx5ndwyxmii2mo7w6zb5gbq6amazqcx4pbtndnja5q,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://repelishd.cam/uploads/mini/cuimage/c9/956c26c053ebb7e2cd4635c38ccccc.jpg" group-title= "Acción ",The Land of Saints and Sinners 
 https://hfs264.serversicuro.cc/hls/,dnzpeefp27g4a3gyvboh52tyq7jixubxxlenegxuuojctpg7tr37awj2bgaq,.urlset/master.m3u8
