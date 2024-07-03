@@ -1198,6 +1198,8 @@ https://hls.guayhd.me/videos/f6b1df2ee17f51b23eb7c8b09d7ce339/720/720p.m3u8
 https://hls3.guayhd.me/videos/d2fcf1bae0a1098e49f270b78ff87575/720/720p.m3u8
 #EXTINF:-1 tvg-logo="https://www1.pelisforte.se/wp-content/uploads/2020/01/kingsman-ii-el-circulo-de-oro-4503-poster-170x255.jpg" group-title="Acción", Kingsman 2: El Círculo Dorado
 https://hls3.guayhd.me/videos/36308e1520518adf520e3c0887f8aec2/720/720p.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oQPbZ5e6J9fuAyv4Gl0mMZMIyPI.jpg" group-title="Acción", Kingsman 3: El Origen
+https://myscloud.xyz/uploads/monge82cr/Peliculas/Ver-Kings-Man--El-origen-(2021)-HD-1080p_2024-06-28_20-18-41.mp4
 #EXTINF:-1 tvg-logo="https://www1.pelisforte.se/wp-content/uploads/2020/02/hasta-el-ultimo-hombre-4767-poster-170x255.jpg" group-title="Acción", Hasta el último hombre
 https://hls.guayhd.me/videos/8823d5ca77148d14d1222a8beba30bab/720/720p.m3u8
 #EXTINF:-1 tvg-logo="https://www1.pelisforte.se/wp-content/uploads/2021/05/talentos-ocultos-12144-poster-170x255.jpg" group-title="Drama", Talentos Ocultos
@@ -1380,7 +1382,61 @@ https://sp.rmbl.ws/s8/2/p/Q/3/h/pQ3ho.aaa.mp4
 https://sp.rmbl.ws/s8/2/h/h/z/_/hhz_n.aaa.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg" group-title= "Acción",Atrapados En Lo Profundo (tubeonline)
 https://str13.vtube.network/hls/,x5s43yh6ibyki6cgapcmrlf5onbdv7webgnedlwoqdvku4e6xphwrxfjihpa,.urlset/master.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/zis6kV69W0CJqFhyK5LJaaXp4Uh.jpg" group-title= "Acción",No Way to Escape (tubeonline)
-https://box-1038-f2.vmeas.cloud/hls/xqx2ocv3dfokjiqbtgfcl6a35elzwl5uf56433ftn,7qp2e2x5oelltzaki3q,wcp2e2x5oehznazcdza,.urlset/master.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/31MkIlfEaQ5vopz5lulP96xbZyU.jpg" group-title= "Crimen",Anatomía de Una Caída(tubeonline)
-https://box-wi-967.vmeas.cloud/hls/xqx2pd4td5okjiqbtfxcloi5vg3pjkpg7yi2l3jnj,mhbrwblujfz6rftcooq,fvbrwblujfr7pb5sbaq,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg" group-title= "Acción",Atrapados En Lo Profundo (PELICINEHD)
+https://be4242.rcr52.ams03.cdn112.com/hls2/01/06415/z9aiuep07g6o_n/master.m3u8?t=3cIsEbANbejZ1HKp9o3qQPbyjtP-aGrqD5M_qR90JkQ&s=1719957016&e=43200&f=32094307&srv=32&asn=27882&sp=4000
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w533_and_h300_bestv2/sp7MPK2K60LLd7A6zjHKsfgjFil.jpg" group-title= "Terror",La Conspiración del Diablo (cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/s/b/I/O/sbIOn.aaa.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2fAnbhiwqPiu0XHA98nZrPckPgv.jpg" group-title= "Terror",Cosecha Oscura (cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/7/a/v/I/7avIn.aaa.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w533_and_h300_bestv2/n7qgmrfAJoWU7GHDkrByYPF2nnr.jpg" group-title= "Comedia",La otra Zoey (cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/Y/C/m/H/YCmHn.aaa.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qjMDwBWbG5hAP43q3meplZFreFQ.jpg" group-title= "Comedia Terror",Dulces y Sangrientos 16 (cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/X/E/s/A/XEsAn.aaa.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qjMDwBWbG5hAP43q3meplZFreFQ.jpg" group-title= "Comedia Terror",Dulces y Sangrientos 16 (cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/R/J/Z/h/RJZhn.aaa.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w533_and_h300_bestv2/bNxnk75NLddqqnblfjovGGyr71K.jpg" group-title= "Drama",McFarland: Sin límites (cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/1/l/L/h/1lLhn.aaa.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/xvzxqKWltnj6qSiWBXRq6ZCdcrw.jpg" group-title= "Drama",Nowhere (cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/F/e/4/c/Fe4cn.aaa.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w533_and_h300_bestv2/brMNMEhzhnFiaJoo447M712iNOA.jpg" group-title= "Drama",Yo, Tonya (cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/j/r/4/c/jr4cn.aaa.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w533_and_h300_bestv2/mrdHbaCp3ysDrzUHle5eQlY9Vzu.jpg" group-title= "Comedia",Muertos de Risa (cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/z/N/W/C/zNWCm.aaa.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/miiRJvYhfVejRDPA1gQOHPkZV5s.jpg" group-title= "Acción",Ninja Asesino (cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/P/c/t/D/PctDm.aaa.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/miiRJvYhfVejRDPA1gQOHPkZV5s.jpg" group-title= "Acción",Ninja Asesino (cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/Y/Z/K/x/YZKxm.aaa.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/sF2REAiVUcN90lrMeLfmEuHJl4B.jpg" group-title= "Acción",Los Intocables (cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/Y/Z/K/x/YZKxm.aaa.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/champions-312832686-large.jpg" group-title= "Drama Comedia",Los Campeones  (cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/q/M/s/p/qMspm.aaa.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w533_and_h300_bestv2/4OjoH07cxYQbnGiJzJxto0NUejH.jpg" group-title= "Biografia Drama Comedia",La fórmula ganadora de Jerry y Marge  (cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/8/e/R/O/8eROl.aaa.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/csz3oWxd04wgXUzenXgenIVwXGl.jpg" group-title= "Comedia",Rojo, Blanco y Sangre Azul (cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/W/5/n/F/W5nFl.aaa.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/d1xgTgcAd5VKDbXwLfnlM9OIWfP.jpg" group-title= "Acción",El Pacto de los Lobos (cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/g/R/V/E/gRVEl.aaa.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zN41DPmPhwmgJjHwezALdrdvD0h.jpg" group-title= "Acción",Megalodón 2: El gran abismo (cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/T/h/r/p/Thrpm.aaa.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jsygLszm68Yg3D1Hhbh7i6Ugvjk.jpg" group-title= "Acción",Proyecto Extraccion Hidden Strike (cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/f/X/l/j/fXljl.aaa.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fUUEyB2WI8BqHgBIL0c17DNKmYL.jpg" group-title= "Terror",Proyecto Tin & Tina(cinecalidad.pro UP)
+https://s29.upstreamcdn.co/hls2/01/04600/gxr0jyselx1j_n/master.m3u8?t=AKMa4BBL0A6NeSGUaCFfqIcmgp_dl6Y4wESeYLxaqJs&s=1719966676&e=10800&f=23001543&i=177.222&sp=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cARSBgATiIZarMqsTFjdVOOjupl.jpg" group-title= "Comedia",Un asunto familiar(cuevana3.vip)
+https://www.terabox.com/share/extstreaming.m3u8?uk=4398612657671&shareid=54053311861&type=M3U8_AUTO_360&fid=217907443925837&sign=7850f41b12eea6c2e5760d5134c25f923e9c7aaf&timestamp=1719968423&jsToken=436C722A0F926497B87CACDAAE22E8A31190D81AA7947F879ED3D6FA6E091F66689D0D77408643227D5B9F8ADE7AEDA6EDA6AD5BD9770F507FDA9D5CC21D3E55CE588DF4E696D647701C6242F9C18D72B8046D50E1CFA9D141E4D57B8F6E9A0C&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/f5e1zgBCMsm0Cx6EXcNZ82rTXHs.jpg" group-title= "Acción",De vuelta al crimen(www17pelisplushd=plustream)
+https://plustream.com/api-embed/82d7b6d0-f8d8-41e9-8ffb-623f43eb1eec/master_872p.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2aWRlb0lkIjoiODJkN2I2ZDAtZjhkOC00MWU5LThmZmItNjIzZjQzZWIxZWVjIiwiaXAiOiIyNjA0OmIwMDA6YTIwODozNzFhOmQ0MzU6OTM4YTphMmVkOjllZDEiLCJpYXQiOjE3MTk5NjMyODMsImV4cCI6MTcxOTk3MDQ4M30=.1Q2CH7MXTMN-sHTwuDE-SyM9YyFb10mPs5_M0LJsp3E
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bUB5D7TvfuyRcbOQm5W1B64tNJu.jpg" group-title= "Acción",Fuerza Extrema(www17pelisplushd=plustream)
+https://plustream.com/api-embed/6de07b05-5794-451b-b4df-d8b97ea41dc7/master_1080p.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2aWRlb0lkIjoiNmRlMDdiMDUtNTc5NC00NTFiLWI0ZGYtZDhiOTdlYTQxZGM3IiwiaXAiOiIxNzcuMjIyLjYzLjE0MyIsImlhdCI6MTcxOTk2OTIyNiwiZXhwIjoxNzE5OTc2NDI2fQ==.qynucF5_s2CXspJr8O5wBiTI-gVGVgmc7AWGA8ISKk8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1LOT0yesrW1l98qYzMbzx6vCRbi.jpg" group-title= "Acción",Contra Todos(pelisforte)
+https://hls4.guayhd.me/videos/a0e9726bedeb3bfa4bafa8981635803c/720/720p.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys0erQoixe1sCjCyQmtxlZ16mI7.jpg" group-title= "Misterio",A Traición(peliculasonlinegratishd)
+https://myscloud.xyz/uploads/monge82cr/Peliculas/A_fall_from_grace_2020_2024-06-30_14-59-21.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kP2DsgcIwuubm3WBvmxJcWFKzL2.jpg" group-title= "Crimen Misterio",Número 23(peliculasonlinegratishd)
+https://myscloud.xyz/uploads/CineLatino/Peliculas/El-Numero-23-(2007)-720p.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w533_and_h300_bestv2/mwWkhJy5EIYpgzc0vIas7StCyaX.jpg" group-title= " Terror",El bufón(peliculasonlinegratishd)
+https://myscloud.xyz/uploads/monge82cr/Peliculas/El_Buf%C3%B3n_2023_1080P-Dual-Lat_2024-06-22_23-00-29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bivJNU5gUzVQeyXYDfntxVYWenw.jpg" group-title= " Acción",Jonah Hex(peliculasonlinegratishd)
+https://myscloud.xyz/uploads/CineLatino/Peliculas/Jonah-Hex.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-susurro.jpg" group-title= " Terror",El susurro(cuevana3.ch=streamtape)
+https://3652634696.tapecontent.net/radosgw/8VMYrjLpayToK44/I8UXqGi621tj7h2xuifaKmFy4JX6d94Md1-yuGZ7JU0O5d8RLc2CANoYFVb6_4natJhC6ZZRyzhGXhaFnxLdHJMAPsNcqk2baht68v0CBNtKGLLceWLiTL0VE_mHdb3DZfxU0SQ7NzTrDn8vLRhbcI5YHWRj1yuKXMf2jwQPixnAb6gH5WVIFnxfC9Ux2FfkF_oYPPMa2Exn4vPYs8CR7Op3X20RMyvCMdi2LrK_CzJE9vPyhhdH0qODULyeGg09UyyWo7vrKm-uHdm-e0rK4GowVuleu0hlZ0mRREim7szYjZ8rX6NpOIjlWBV-diO1f7Jx8vLfGjbSUCXL/271160--8eab8309-4fa2-4509-a3ad-b4335d6177b9--gfnm--2373651-streamtape.mp4?stream=1
