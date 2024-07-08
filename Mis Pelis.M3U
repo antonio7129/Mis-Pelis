@@ -1272,8 +1272,6 @@ https://www.terabox.com/share/extstreaming.m3u8?uk=4398612657671&shareid=4048569
 https://www.terabox.com/share/extstreaming.m3u8?uk=4398612657671&shareid=12635028748&type=M3U8_AUTO_360&fid=127632638279051&sign=17fccd87f58859457f3931d91cc74549f47c4bd4&timestamp=1718326733&jsToken=CF67CC59AE3C9770E5F213D22CFD499BB328F06DF1308AB28FA73FA2303612ED923D25102A634E5D18E97BA88F08B429AE469D5B86A7B3E96F2FE69F54E98D2E60CA63BF70DE3DB5AE9938FE05332B7A82EC2FAC2ACE3643FDBA7638243ED979&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/bf5a5c2e8b96b4f50b6cd610ec129817634f93d402abffa2fd8c6d1699f0b855.jpg" group-title= "Acción", El protector
 https://cache004.peliscdn.online/newhls/a1172e14cb5b679fb39c2f1c8118a59d/EP.0.2.v0.1708655995.720.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/90QFOG5zSN4cbrIVs4DL4ePAuA5.jpg" group-title= "Acción", Gladiador
-https://cache005.peliscdn.online/newhls/62dd968f0ba10b9996e1384c5cff4b89/EP.0.1.v0.1709100913.360.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/27WJUPZtF5pPM9tm76AsmhR0wBF.jpg" group-title= "Acción", Outlawed
 https://cache017.peliscdn.online/newhls/0d089fe232e3f29aa0525d9b3889ce19/EP.0.2.v0.1709561214.360.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/9D7SS7x4SU8aJSgOBEFhK8IMYj8.jpg" group-title= "Comedia", You May Not Kiss the Bride
@@ -1406,6 +1404,8 @@ https://sp.rmbl.ws/s8/2/8/e/R/O/8eROl.aaa.mp4
 https://sp.rmbl.ws/s8/2/W/5/n/F/W5nFl.aaa.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/d1xgTgcAd5VKDbXwLfnlM9OIWfP.jpg" group-title= "Acción",El Pacto de los Lobos (cinecalidad.pro)
 https://sp.rmbl.ws/s8/2/g/R/V/E/gRVEl.aaa.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xgUcIgr7PFwfJpjXGB3Ra3V10KU.jpg" group-title= "Acción",Megalodón  (cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/w/U/1/C/wU1Cl.aaa.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zN41DPmPhwmgJjHwezALdrdvD0h.jpg" group-title= "Acción",Megalodón 2: El gran abismo (cinecalidad.pro)
 https://sp.rmbl.ws/s8/2/T/h/r/p/Thrpm.aaa.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jsygLszm68Yg3D1Hhbh7i6Ugvjk.jpg" group-title= "Acción",Proyecto Extraccion Hidden Strike (cinecalidad.pro)
@@ -1476,3 +1476,23 @@ https://sp.rmbl.ws/s8/2/O/X/I/2/OXI2n.aaa.mp4
 https://gdriveplayer.to/hlsnew2.php?type=720&id=dU5EOWl3M2MxUGJXc0FZREdqRXFxRHgrbVp3RmtQUHdsWVUyOGF3bnlld0EvMzdMck95YzZlcEhJVWpvTWEzTg==.m3u8&name=file.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jPu8yiadqgzwFPGKJmGo637ASVP.jpg" group-title= "Acción ", El Increíble Hulk (cinecalidad.pro)
 https://sp.rmbl.ws/s8/2/i/3/3/v/i33vl.aaa.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/inmzNh0cKYvjuzeRI7X9fhdXa02.jpg" group-title= "Acción ", 300 (cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/c/P/h/w/cPhwn.aaa.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7HN5rOyLkbeBabX4uBcbwU9K1wW.jpg" group-title= "Acción ", Upgrade: Máquina Asesina(cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/D/9/z/D/D9zDm.aaa.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pZCLGHynFPOv8dve6u9waxknLth.jpg" group-title= "Acción ", Volver al Futuro 1(cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/d/W/i/G/dWiGm.aaa.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k1mnR3zViKinSX0KaR8DYKJDdMc.jpg" group-title= "Acción ", Volver al Futuro 2(cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/X/S/i/G/XSiGm.aaa.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vKp3NvqBkcjHkCHSGi6EbcP7g4J.jpg" group-title= "Acción ", Volver al Futuro 3(cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/3/0/i/G/30iGm.aaa.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7y1sHhtL31I7kgRA0IIC1DUC5oh.jpg" group-title= "Acción", Gladiador
+https://sp.rmbl.ws/s8/2/C/S/F/h/CSFhl.aaa.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zRDkmww7Bu11wiz2g86RxSreiY4.jpg" group-title= "Animación", El Grinch (2018)
+https://ak2.rmbl.ws/s8/2/t/L/j/I/tLjIo.aaa.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3YXWHl2oP8OFT5CtG3EoeMQtAAD.jpg" group-title= "Drama", El Lado Bueno de las Cosas (cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/Q/J/k/g/QJkgo.aaa.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5RA1vUqoX0gIwhLVqWR06HrExJd.jpg" group-title= "Comedia", 10 Cosas que Odio de Ti (cinecalidad.pro)
+https://ak2.rmbl.ws/s8/2/t/U/c/1/tUc1o.aaa.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6yo3zLs8eGcdX8eS6DHcjC8U7eY.jpg" group-title= "Comedia", Green Book: Una Amistad Sin Fronteras (cinecalidad.pro)
+https://sp.rmbl.ws/s8/2/s/u/b/K/subKm.aaa.mp4
